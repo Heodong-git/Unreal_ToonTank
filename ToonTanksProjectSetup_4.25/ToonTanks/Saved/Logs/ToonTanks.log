@@ -1662,3 +1662,93 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.31-03.50.24:064][880]LogPlayLevel: Display: Destroying online subsystem :Context_17
 [2024.01.31-03.50.29:852][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
 [2024.01.31-03.50.31:854][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.31-03.56.00:270][344]Running C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2024.01.31-03.56.00:372][344]Using bundled DotNet SDK version: 6.0.302
+[2024.01.31-03.56.00:372][344]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2024.01.31-03.56.00:978][344]Log file: C:\Users\zest2\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.01.31-03.56.01:380][344]
+[2024.01.31-03.56.01:380][344]Some Platforms were skipped due to invalid SDK setup: Android, Linux, LinuxArm64.
+[2024.01.31-03.56.01:380][344]See the log file for detailed information
+[2024.01.31-03.56.01:380][344]
+[2024.01.31-03.56.01:380][344]
+[2024.01.31-03.56.01:380][344]Generating VisualStudio2022 project files:
+[2024.01.31-03.56.01:380][344]Discovering modules, targets and source code for project...
+[2024.01.31-03.56.02:688][344]Binding IntelliSense data...
+[2024.01.31-03.56.13:049][344]Binding IntelliSense data... 75%
+[2024.01.31-03.56.13:049][344]Binding IntelliSense data... 100%
+[2024.01.31-03.56.13:049][344]Creating common properties file...
+[2024.01.31-03.56.13:049][344]Creating common properties file... 0%
+[2024.01.31-03.56.13:049][344]Writing project files...
+[2024.01.31-03.56.13:151][344]Forcing LEGACY XCODE because host OS is not Mac
+[2024.01.31-03.56.14:608][344]Writing project files... 100%
+[2024.01.31-03.56.14:608][344]
+[2024.01.31-03.56.14:608][344]Generating QueryTargets data for editor...
+[2024.01.31-03.56.14:814][344]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.01.31-03.56.15:209][344]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2024.01.31-03.56.21:016][363]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_6.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_6.exp 개체를 생성하고 있습니다.
+[2024.01.31-03.56.21:428][364]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.01.31-03.56.21:430][364]LogClass: Could not find existing class Tank in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.01.31-03.56.21:650][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.31-03.56.22:050][365]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 1 class unchanged
+[2024.01.31-03.56.22:051][365]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.01.31-03.56.57:567][598]Running C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2024.01.31-03.56.57:669][598]Using bundled DotNet SDK version: 6.0.302
+[2024.01.31-03.56.57:669][598]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2024.01.31-03.56.57:971][598]Log file: C:\Users\zest2\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.01.31-03.56.58:173][598]
+[2024.01.31-03.56.58:173][598]Some Platforms were skipped due to invalid SDK setup: Android, Linux, LinuxArm64.
+[2024.01.31-03.56.58:173][598]See the log file for detailed information
+[2024.01.31-03.56.58:173][598]
+[2024.01.31-03.56.58:173][598]
+[2024.01.31-03.56.58:173][598]Generating VisualStudio2022 project files:
+[2024.01.31-03.56.58:173][598]Discovering modules, targets and source code for project...
+[2024.01.31-03.56.59:180][598]Binding IntelliSense data...
+[2024.01.31-03.57.02:020][598]Binding IntelliSense data... 100%
+[2024.01.31-03.57.02:020][598]Creating common properties file...
+[2024.01.31-03.57.02:020][598]Creating common properties file... 0%
+[2024.01.31-03.57.02:020][598]Writing project files...
+[2024.01.31-03.57.02:021][598]Forcing LEGACY XCODE because host OS is not Mac
+[2024.01.31-03.57.03:333][598]Writing project files... 100%
+[2024.01.31-03.57.03:333][598]
+[2024.01.31-03.57.03:333][598]Generating QueryTargets data for editor...
+[2024.01.31-04.00.22:334][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.01.31-04.00.22:352][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Main_Auto2
+[2024.01.31-04.00.22:352][ 38]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Main_Auto20D4034D341C598EA342E1D8F57C103F2.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2024.01.31-04.00.22:353][ 38]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto2.umap is in the /Temp path, will not scan.
+[2024.01.31-04.00.22:353][ 38]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Main_Auto2 is in the /Temp path, will not scan.
+[2024.01.31-04.00.22:353][ 38]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Main_Auto2 is in the /Temp path, will not scan.
+[2024.01.31-04.00.22:353][ 38]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.084
+[2024.01.31-04.00.22:353][ 38]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2024.01.31-04.00.22:353][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_PawnTank] ([2] browsable assets)...
+[2024.01.31-04.00.22:385][ 38]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank]
+[2024.01.31-04.00.22:385][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_PawnTank]
+[2024.01.31-04.00.22:390][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Pawns/BP_PawnTank_Auto2
+[2024.01.31-04.00.22:390][ 38]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_PawnTank_Auto24EED7B4147DB86FA3EDDC29668D2FDD8.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawns/BP_PawnTank_Auto2.uasset'
+[2024.01.31-04.00.22:390][ 38]LogFileHelpers: Auto-saving content packages took 0.037
+[2024.01.31-04.38.24:718][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.01.31-04.38.24:726][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.31-04.38.24:783][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.31-04.38.24:812][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.31-04.38.24:825][231]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.01.31-04.38.24:826][231]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/MainFC1C9C394B11073F3EF8D0994603C8A5.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap'
+[2024.01.31-04.38.24:832][231]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2024.01.31-04.38.24:832][231]LogFileHelpers: Saving map 'Main' took 0.049
+[2024.01.31-04.38.24:832][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTank" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset" SILENT=true
+[2024.01.31-04.38.24:836][231]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTank
+[2024.01.31-04.38.24:837][231]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_PawnTank8B11EDC744E141C012EBC59800211766.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2024.01.31-04.38.24:845][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.83 sec)
+[2024.01.31-04.38.24:847][231]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.01.31-04.38.24:847][231]LogContentValidation: Display: /Script/Engine.World /Game/Maps/Main.Main 유효성 검사 중
+[2024.01.31-04.38.24:847][231]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank 유효성 검사 중
+[2024.01.31-04.38.25:457][268]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.01.31-04.38.34:993][840]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_7.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_7.exp 개체를 생성하고 있습니다.
+[2024.01.31-04.38.35:124][843]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.01.31-04.38.35:124][843]LogClass: UClass Tank Reload.
+[2024.01.31-04.38.35:126][843]LogClass: Could not find existing class Tank in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.01.31-04.38.35:139][843]Re-instancing Tank after reload.
+[2024.01.31-04.38.35:295][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.31-04.38.35:797][844]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.01.31-04.38.35:797][844]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.01.31-04.39.05:577][640]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank from BasePawn to Tank...
+[2024.01.31-04.39.05:587][640]BlueprintLog: New page: BP_PawnTank 컴파일
+[2024.01.31-04.39.05:700][640]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms

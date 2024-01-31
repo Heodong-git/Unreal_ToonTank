@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\tank.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\x64\\toontankseditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\tank.h",
+            "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\basepawn.h",
+            "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\basepawn.generated.h",
+            "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\springarmcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
