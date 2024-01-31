@@ -34,4 +34,9 @@ private:
 	UPROPERTY(EditAnywhere, Category = "Movement")
 	float TurnRate = 200.0f;
 	
+	FTimerHandle FireRateTimerHandle;	 // 타이머핸들
+	float FireRate = 2.5f;				 // 간격 
+	void CheckFireCondition();			 // 콜백함수 
+
+	bool InFireRange();
 };

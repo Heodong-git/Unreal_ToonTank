@@ -4,6 +4,7 @@
 #include "Tower.h"
 #include "Tank.h"
 #include "Kismet/GameplayStatics.h"
+#include "TimerManager.h"
 
 ATower::ATower()
 {
@@ -13,12 +14,29 @@ void ATower::BeginPlay()
 {
 	Super::BeginPlay();
 	Tank = Cast<ATank>(UGameplayStatics::GetPlayerPawn(this, 0));
+	GetWorldTimerManager().SetTimer(FireRateTimerHandle, this, &ATower::CheckFireCondition, FireRate, true);
 }
 
 void ATower::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	if (true == InFireRange())
+	{
+		RotateTurret(Tank->GetActorLocation(), DeltaTime);
+	}
+}
+
+void ATower::CheckFireCondition()
+{
+	if (true == InFireRange())
+	{
+		Fire();
+	}
+}
+
+bool ATower::InFireRange()
+{
 	if (nullptr != Tank)
 	{
 		// 탱크까지의 거리를 구한다.
@@ -27,12 +45,9 @@ void ATower::Tick(float DeltaTime)
 		// 사거리 안에 들어왔다면
 		if (Distance <= FireRange)
 		{
-			RotateTurret(Tank->GetActorLocation(), DeltaTime);
+			return true;
 		}
 	}
-	
-	// 사정거리 안에 있는지 체크 
 
-	// 사정거리 안에 있다면 포탑이 탱크를 향해 회전하고
-
+	return false;
 }
