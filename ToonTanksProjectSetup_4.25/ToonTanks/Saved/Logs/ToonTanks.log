@@ -1267,3 +1267,398 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.31-01.54.24:997][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 465 ms)
 [2024.01.31-01.54.24:998][778]AssetCheck: New page: 에셋 저장:  BP_PawnTurret
 [2024.01.31-01.54.24:998][778]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret 유효성 검사 중
+[2024.01.31-02.07.30:673][225]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.01.31-02.07.40:632][522]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_1.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_1.exp 개체를 생성하고 있습니다.
+[2024.01.31-02.07.40:793][524]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.01.31-02.07.40:793][524]LogClass: UClass BasePawn Reload.
+[2024.01.31-02.07.40:793][524]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.01.31-02.07.40:801][524]Re-instancing BasePawn after reload.
+[2024.01.31-02.07.40:993][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.01.31-02.07.41:411][525]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.01.31-02.07.41:411][525]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.01.31-02.42.13:560][682]LogDerivedDataCache: C:/Users/zest2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.414 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9686 files in 12112 folders with total size 1230 MiB.
+[2024.01.31-03.05.30:631][121]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.01.31-03.05.33:079][251]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.01.31-03.05.33:079][251]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.01.31-03.05.52:806][469]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.01.31-03.06.04:799][900]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_2.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_2.exp 개체를 생성하고 있습니다.
+[2024.01.31-03.06.04:952][908]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.01.31-03.06.04:952][908]LogClass: UClass BasePawn Reload.
+[2024.01.31-03.06.04:952][908]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.01.31-03.06.04:962][908]Re-instancing BasePawn after reload.
+[2024.01.31-03.06.05:233][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.01.31-03.06.05:608][909]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.01.31-03.06.05:608][909]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.01.31-03.16.10:946][759]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.01.31-03.16.22:382][121]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_3.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_3.exp 개체를 생성하고 있습니다.
+[2024.01.31-03.16.22:521][128]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.01.31-03.16.22:521][128]LogClass: UClass BasePawn Reload.
+[2024.01.31-03.16.22:521][128]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.01.31-03.16.22:533][128]Re-instancing BasePawn after reload.
+[2024.01.31-03.16.22:739][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.01.31-03.16.23:135][129]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.01.31-03.16.23:135][129]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.01.31-03.17.15:287][141]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.01.31-03.17.15:312][141]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2024.01.31-03.17.15:313][141]LogPlayLevel: [PlayLevel] Compiling BP_PawnTank before play...
+[2024.01.31-03.17.15:434][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.01.31-03.17.15:437][141]LogPlayLevel: PlayLevel: Blueprint regeneration took 125 ms (1 blueprints)
+[2024.01.31-03.17.15:446][141]PIE: New page: PIE 세션: Main (2024. 1. 31. 오후 9:17:15)
+[2024.01.31-03.17.15:474][141]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.01.31-03.17.15:478][141]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.01.31-03.17.15:501][141]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.01.31-03.17.15:523][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022531s)
+[2024.01.31-03.17.15:523][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.022677s)
+[2024.01.31-03.17.15:561][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2024.01.31-03.17.15:567][141]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.31-03.17.15:568][141]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.31-03.17.15:568][141]LogAIModule: Creating AISystem for world Main
+[2024.01.31-03.17.15:569][141]LogPlayLevel: PIE: World Init took: (0.003006s)
+[2024.01.31-03.17.15:570][141]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.01.31-03.17.15:570][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.31-03.17.15:570][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.31-03.17.15:570][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.31-03.17.15:570][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.31-03.17.15:570][141]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.31-03.17.15:570][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.31-03.17.15:570][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.31-03.17.15:570][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.31-03.17.15:570][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.31-03.17.15:570][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.31-03.17.15:570][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.31-03.17.15:572][141]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.31-03.17.15:610][141]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.01.31-03.17.15:610][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.31-03.17.15:610][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.31-03.17.15:610][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.31-03.17.15:611][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.01.31-03.17.15:611][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.01.31-03.17.15:613][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.01.31-03.17.15:613][141]LogInit: FAudioDevice initialized with ID 2.
+[2024.01.31-03.17.15:613][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.01.31-03.17.15:613][141]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2024.01.31-03.17.15:613][141]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.31-03.17.15:632][141]LogLoad: Game class is 'GameModeBase'
+[2024.01.31-03.17.15:633][141]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.31-12.17.15
+[2024.01.31-03.17.15:635][141]LogWorld: Bringing up level for play took: 0.002638
+[2024.01.31-03.17.15:639][141]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.01.31-03.17.15:858][141]PIE: 서버가 로그인했습니다.
+[2024.01.31-03.17.15:859][141]PIE: 에디터에서 플레이 총 시작 시간 0.563초입니다.
+[2024.01.31-03.17.19:351][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.31-03.17.19:351][539]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.01.31-03.17.19:356][539]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.31-03.17.19:357][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.31-03.17.19:362][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.31-03.17.19:366][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.31-03.17.19:380][539]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.31-03.17.19:382][539]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.31-03.17.19:384][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.31-03.17.19:386][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.31-03.17.19:392][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.31-03.17.19:400][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.31-03.17.19:427][540]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.01.31-03.17.30:686][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.01.31-03.17.30:694][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.31-03.17.30:769][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTank" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset" SILENT=true
+[2024.01.31-03.17.30:774][837]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTank
+[2024.01.31-03.17.30:774][837]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_PawnTank69CEB963424B961033998D8CD3E36790.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2024.01.31-03.17.30:783][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 554 ms)
+[2024.01.31-03.17.30:785][837]AssetCheck: New page: 에셋 저장:  BP_PawnTank
+[2024.01.31-03.17.30:785][837]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank 유효성 검사 중
+[2024.01.31-03.17.39:965][848]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank_C
+[2024.01.31-03.17.39:965][848]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank_C
+[2024.01.31-03.17.39:966][848]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank as actor: BP_PawnTank_C /Game/Maps/Main.Main:PersistentLevel.BP_PawnTank_C_0
+[2024.01.31-03.17.39:966][848]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank as actor: BP_PawnTank_C /Game/Maps/Main.Main:PersistentLevel.BP_PawnTank_C_0
+[2024.01.31-03.17.40:667][912]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank_C
+[2024.01.31-03.17.40:667][912]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank_C
+[2024.01.31-03.17.40:671][912]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank as actor: BP_PawnTank_C /Game/Maps/Main.Main:PersistentLevel.BP_PawnTank_C_1
+[2024.01.31-03.17.40:671][912]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank as actor: BP_PawnTank_C /Game/Maps/Main.Main:PersistentLevel.BP_PawnTank_C_1
+[2024.01.31-03.17.42:361][ 57]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.01.31-03.17.42:380][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.31-03.17.42:380][ 57]PIE: New page: PIE 세션: Main (2024. 1. 31. 오후 9:17:42)
+[2024.01.31-03.17.42:418][ 57]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.01.31-03.17.42:422][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004173s)
+[2024.01.31-03.17.42:422][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004223s)
+[2024.01.31-03.17.42:444][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.01.31-03.17.42:447][ 57]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.31-03.17.42:447][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.31-03.17.42:448][ 57]LogAIModule: Creating AISystem for world Main
+[2024.01.31-03.17.42:448][ 57]LogPlayLevel: PIE: World Init took: (0.001341s)
+[2024.01.31-03.17.42:448][ 57]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.01.31-03.17.42:448][ 57]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.31-03.17.42:448][ 57]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.31-03.17.42:448][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.31-03.17.42:448][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.31-03.17.42:448][ 57]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.31-03.17.42:449][ 57]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.31-03.17.42:449][ 57]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.31-03.17.42:449][ 57]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.31-03.17.42:449][ 57]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.31-03.17.42:449][ 57]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.31-03.17.42:449][ 57]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.31-03.17.42:452][ 57]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.31-03.17.42:522][ 57]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.01.31-03.17.42:523][ 57]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.31-03.17.42:523][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.31-03.17.42:523][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.31-03.17.42:523][ 57]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.01.31-03.17.42:523][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.01.31-03.17.42:526][ 57]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.01.31-03.17.42:526][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.01.31-03.17.42:526][ 57]LogInit: FAudioDevice initialized with ID 3.
+[2024.01.31-03.17.42:526][ 57]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2024.01.31-03.17.42:526][ 57]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.31-03.17.42:529][ 57]LogLoad: Game class is 'GameModeBase'
+[2024.01.31-03.17.42:530][ 57]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.31-12.17.42
+[2024.01.31-03.17.42:532][ 57]LogWorld: Bringing up level for play took: 0.003148
+[2024.01.31-03.17.42:536][ 57]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.01.31-03.17.42:539][ 57]LogBlueprintUserMessages: [BP_PawnTank_C_1] 400.0
+[2024.01.31-03.17.42:540][ 57]PIE: 서버가 로그인했습니다.
+[2024.01.31-03.17.42:541][ 57]PIE: 에디터에서 플레이 총 시작 시간 0.171초입니다.
+[2024.01.31-03.17.44:268][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.31-03.17.44:269][249]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.01.31-03.17.44:269][249]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.31-03.17.44:269][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.31-03.17.44:274][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.31-03.17.44:278][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.31-03.17.44:299][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.31-03.17.44:299][249]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.31-03.17.44:299][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.31-03.17.44:301][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.31-03.17.44:312][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.01.31-03.17.44:382][250]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.01.31-03.18.11:472][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.31-03.18.11:486][612]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Main_Auto1
+[2024.01.31-03.18.11:487][612]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Main_Auto15A7E71B94A631BFAC98838A35FD4698E.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2024.01.31-03.18.11:490][612]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto1.umap is in the /Temp path, will not scan.
+[2024.01.31-03.18.11:490][612]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.035
+[2024.01.31-03.18.11:490][612]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2024.01.31-03.30.28:682][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.31-03.30.28:771][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.31-03.30.28:813][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.01.31-03.30.28:833][ 19]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.01.31-03.30.28:834][ 19]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Main48746FE2448A525DDF2659A9AE5B33B2.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap'
+[2024.01.31-03.30.28:849][ 19]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2024.01.31-03.30.28:849][ 19]LogFileHelpers: Saving map 'Main' took 0.078
+[2024.01.31-03.30.28:859][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 731 ms)
+[2024.01.31-03.30.28:860][ 19]AssetCheck: New page: 에셋 저장:  Main
+[2024.01.31-03.30.28:860][ 19]LogContentValidation: Display: /Script/Engine.World /Game/Maps/Main.Main 유효성 검사 중
+[2024.01.31-03.30.29:744][120]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.01.31-03.30.31:359][294]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.01.31-03.30.31:359][294]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.01.31-03.30.50:076][582]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.01.31-03.31.04:141][214]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_4.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_4.exp 개체를 생성하고 있습니다.
+[2024.01.31-03.31.04:310][222]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.01.31-03.31.04:310][222]LogClass: UClass BasePawn Reload.
+[2024.01.31-03.31.04:310][222]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.01.31-03.31.04:324][222]Re-instancing BasePawn after reload.
+[2024.01.31-03.31.04:606][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.01.31-03.31.05:142][223]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.01.31-03.31.05:142][223]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.01.31-03.33.13:565][473]BlueprintLog: New page: BP_PawnTank 컴파일
+[2024.01.31-03.33.13:716][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.01.31-03.33.18:234][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.31-03.33.18:314][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.31-03.33.18:366][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.01.31-03.33.18:383][980]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.01.31-03.33.18:383][980]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Main50C4E56D4DCD3CDDDE60FF80CD9B86AF.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap'
+[2024.01.31-03.33.18:389][980]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2024.01.31-03.33.18:389][980]LogFileHelpers: Saving map 'Main' took 0.075
+[2024.01.31-03.33.18:395][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 892 ms)
+[2024.01.31-03.33.18:396][980]AssetCheck: New page: 에셋 저장:  Main
+[2024.01.31-03.33.18:396][980]LogContentValidation: Display: /Script/Engine.World /Game/Maps/Main.Main 유효성 검사 중
+[2024.01.31-03.33.18:998][ 51]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.01.31-03.33.23:586][582]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_5.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_5.exp 개체를 생성하고 있습니다.
+[2024.01.31-03.33.23:708][587]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.01.31-03.33.23:708][587]LogClass: UClass BasePawn Reload.
+[2024.01.31-03.33.23:708][587]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.01.31-03.33.23:718][587]Re-instancing BasePawn after reload.
+[2024.01.31-03.33.23:962][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.31-03.33.24:465][588]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.01.31-03.33.24:465][588]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.01.31-03.38.31:363][414]LogSlate: Took 0.000611 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.31-03.38.31:410][416]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.31-03.38.36:982][ 45]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.31-03.38.37:009][ 45]LogShaderCompilers: Display: ================================================
+[2024.01.31-03.38.37:009][ 45]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.31-03.38.37:009][ 45]LogShaderCompilers: Display: Total job queries 7, among them cache hits 0 (0.00%)
+[2024.01.31-03.38.37:009][ 45]LogShaderCompilers: Display: Tracking 7 distinct input hashes that result in 7 distinct outputs (100.00%)
+[2024.01.31-03.38.37:009][ 45]LogShaderCompilers: Display: RAM used: 17.44 KiB of 819.20 MiB budget. Usage: 0.00%
+[2024.01.31-03.38.37:009][ 45]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.31-03.38.37:009][ 45]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.31-03.38.37:009][ 45]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.01.31-03.38.37:009][ 45]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.31-03.38.37:009][ 45]LogShaderCompilers: Display: ================================================
+[2024.01.31-03.40.18:587][651]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.31-03.42.06:235][184]Cmd: MODE GRID=0
+[2024.01.31-03.42.13:425][  3]LogDerivedDataCache: C:/Users/zest2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.279 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9690 files in 12116 folders with total size 1230 MiB.
+[2024.01.31-03.42.16:437][355]Cmd: MODE GRID=1
+[2024.01.31-03.42.38:792][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.31-03.42.38:870][836]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.31-03.42.38:884][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTank" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset" SILENT=true
+[2024.01.31-03.42.38:891][836]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTank
+[2024.01.31-03.42.38:891][836]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_PawnTank1357198348121E9039533D91C18E2803.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2024.01.31-03.42.38:899][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.00 sec)
+[2024.01.31-03.42.38:900][836]AssetCheck: New page: 에셋 저장:  BP_PawnTank
+[2024.01.31-03.42.38:900][836]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank 유효성 검사 중
+[2024.01.31-03.43.38:390][410]Cmd: MODE GRID=0
+[2024.01.31-03.43.48:043][422]Cmd: MODE GRID=1
+[2024.01.31-03.43.49:801][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2024.01.31-03.43.49:812][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.31-03.43.49:886][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.31-03.43.49:963][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2024.01.31-03.43.49:983][607]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.01.31-03.43.49:984][607]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Main7495E4E044BFC309BF9AAA873B01DDF0.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap'
+[2024.01.31-03.43.49:992][607]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2024.01.31-03.43.49:992][607]LogFileHelpers: Saving map 'Main' took 0.107
+[2024.01.31-03.43.50:001][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTank" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset" SILENT=true
+[2024.01.31-03.43.50:009][607]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTank
+[2024.01.31-03.43.50:010][607]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_PawnTank1AF175E340AAD7BF453273BDD1834284.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2024.01.31-03.43.50:019][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 1.20 sec)
+[2024.01.31-03.43.50:020][607]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.01.31-03.43.50:020][607]LogContentValidation: Display: /Script/Engine.World /Game/Maps/Main.Main 유효성 검사 중
+[2024.01.31-03.43.50:020][607]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank 유효성 검사 중
+[2024.01.31-03.44.45:650][ 23]LogStaticMesh: Display: SM_TowerTurret 스태틱 메시 빌드 중...
+[2024.01.31-03.44.45:669][ 23]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Assets/Meshes/SM_TowerTurret)...
+[2024.01.31-03.44.45:682][ 23]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Meshes/SM_TowerTurret.SM_TowerTurret
+[2024.01.31-03.44.45:691][ 23]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.31-03.45.01:967][150]LogStaticMesh: Display: SM_TowerBase 스태틱 메시 빌드 중...
+[2024.01.31-03.45.01:987][150]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Assets/Meshes/SM_TowerBase)...
+[2024.01.31-03.45.01:993][150]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Meshes/SM_TowerBase.SM_TowerBase
+[2024.01.31-03.46.52:718][353]Cmd: MODE GRID=0
+[2024.01.31-03.47.00:770][303]Cmd: MODE GRID=1
+[2024.01.31-03.47.03:208][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.31-03.47.03:222][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.31-03.47.03:301][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.31-03.47.03:320][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTurret" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset" SILENT=true
+[2024.01.31-03.47.03:324][584]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTurret
+[2024.01.31-03.47.03:325][584]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_PawnTurret462E3C68429597581D5051BBDF444EB7.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset'
+[2024.01.31-03.47.03:336][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.32 sec)
+[2024.01.31-03.47.03:337][584]AssetCheck: New page: 에셋 저장:  BP_PawnTurret
+[2024.01.31-03.47.03:337][584]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret 유효성 검사 중
+[2024.01.31-03.48.00:350][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.31-03.48.00:354][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.31-03.48.00:446][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTurret" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset" SILENT=true
+[2024.01.31-03.48.00:450][935]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTurret
+[2024.01.31-03.48.00:450][935]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_PawnTurret75042F2E4DEC51325806DC807297AB92.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset'
+[2024.01.31-03.48.00:456][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 1.42 sec)
+[2024.01.31-03.48.00:457][935]AssetCheck: New page: 에셋 저장:  BP_PawnTurret
+[2024.01.31-03.48.00:457][935]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret 유효성 검사 중
+[2024.01.31-03.48.05:610][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.31-03.48.05:614][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.31-03.48.05:685][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.31-03.48.05:714][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.31-03.48.05:726][526]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.01.31-03.48.05:726][526]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Main7478463D495095F9787C3EA5B2A4DC1A.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap'
+[2024.01.31-03.48.05:732][526]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2024.01.31-03.48.05:732][526]LogFileHelpers: Saving map 'Main' took 0.049
+[2024.01.31-03.48.05:740][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTank" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset" SILENT=true
+[2024.01.31-03.48.05:744][526]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTank
+[2024.01.31-03.48.05:746][526]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_PawnTankB712A77A47FDC0CFDD770CA8E723766A.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2024.01.31-03.48.05:753][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 1.56 sec)
+[2024.01.31-03.48.05:755][526]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.01.31-03.48.05:755][526]LogContentValidation: Display: /Script/Engine.World /Game/Maps/Main.Main 유효성 검사 중
+[2024.01.31-03.48.05:755][526]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank 유효성 검사 중
+[2024.01.31-03.48.09:834][997]BlueprintLog: New page: BP_PawnTank 컴파일
+[2024.01.31-03.48.09:954][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.31-03.48.41:050][273]LogShaderCompilers: Display: ================================================
+[2024.01.31-03.48.41:050][273]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.31-03.48.41:050][273]LogShaderCompilers: Display: Total job queries 35, among them cache hits 16 (45.71%)
+[2024.01.31-03.48.41:050][273]LogShaderCompilers: Display: Tracking 19 distinct input hashes that result in 15 distinct outputs (78.95%)
+[2024.01.31-03.48.41:050][273]LogShaderCompilers: Display: RAM used: 43.18 KiB of 819.20 MiB budget. Usage: 0.01%
+[2024.01.31-03.48.41:050][273]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.31-03.48.41:050][273]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.01.31-03.48.41:050][273]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2024.01.31-03.48.41:050][273]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2024.01.31-03.48.41:050][273]LogShaderCompilers: Display: Job execution time: average 1.29 s, max 1.44 s
+[2024.01.31-03.48.41:050][273]LogShaderCompilers: Display: Job life time (pending + execution): average 1.31 s, max 1.47
+[2024.01.31-03.48.41:050][273]LogShaderCompilers: Display: Shader code size: average 7.019 KiB, min 4.145 KiB, max 9.82 KiB
+[2024.01.31-03.48.41:050][273]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.47 s
+[2024.01.31-03.48.41:051][273]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.31-03.48.41:051][273]LogShaderCompilers: Display: Average processing rate: 2.73 jobs/sec
+[2024.01.31-03.48.41:051][273]LogShaderCompilers: Display: Total thread time: 3.911 s
+[2024.01.31-03.48.41:051][273]LogShaderCompilers: Display: Total thread preprocess time: 2.118 s
+[2024.01.31-03.48.41:051][273]LogShaderCompilers: Display: Percentage time preprocessing: 54.15%
+[2024.01.31-03.48.41:051][273]LogShaderCompilers: Display: Effective parallelization: 2.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.31-03.48.41:051][273]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.01.31-03.48.41:051][273]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.10 sec, max 1.11 sec, min 1.09 sec)
+[2024.01.31-03.48.41:051][273]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.85 sec, max 0.86 sec, min 0.85 sec)
+[2024.01.31-03.48.41:051][273]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.01.31-03.48.41:051][273]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 56.33% of total time (compiled    2 times, average 1.10 sec, max 1.11 sec, min 1.09 sec)
+[2024.01.31-03.48.41:051][273]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 43.67% of total time (compiled    2 times, average 0.85 sec, max 0.86 sec, min 0.85 sec)
+[2024.01.31-03.48.41:051][273]LogShaderCompilers: Display: ================================================
+[2024.01.31-03.49.25:765][447]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret_C
+[2024.01.31-03.49.25:766][447]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret_C
+[2024.01.31-03.49.25:766][447]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret as actor: BP_PawnTurret_C /Game/Maps/Main.Main:PersistentLevel.BP_PawnTurret_C_0
+[2024.01.31-03.49.25:767][447]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret as actor: BP_PawnTurret_C /Game/Maps/Main.Main:PersistentLevel.BP_PawnTurret_C_0
+[2024.01.31-03.49.26:834][568]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret_C
+[2024.01.31-03.49.26:834][568]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret_C
+[2024.01.31-03.49.26:837][568]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret as actor: BP_PawnTurret_C /Game/Maps/Main.Main:PersistentLevel.BP_PawnTurret_C_1
+[2024.01.31-03.49.26:837][568]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret as actor: BP_PawnTurret_C /Game/Maps/Main.Main:PersistentLevel.BP_PawnTurret_C_1
+[2024.01.31-03.50.11:429][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.01.31-03.50.11:437][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.31-03.50.11:528][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.31-03.50.11:559][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.31-03.50.11:575][443]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.01.31-03.50.11:576][443]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/MainA5CE373849A29E4F791DDBBFEA1F5331.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap'
+[2024.01.31-03.50.11:582][443]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2024.01.31-03.50.11:582][443]LogFileHelpers: Saving map 'Main' took 0.054
+[2024.01.31-03.50.11:588][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 1.71 sec)
+[2024.01.31-03.50.11:590][443]AssetCheck: New page: 에셋 저장:  Main
+[2024.01.31-03.50.11:590][443]LogContentValidation: Display: /Script/Engine.World /Game/Maps/Main.Main 유효성 검사 중
+[2024.01.31-03.50.13:269][617]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.01.31-03.50.13:278][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.31-03.50.13:278][617]PIE: New page: PIE 세션: Main (2024. 1. 31. 오후 9:50:13)
+[2024.01.31-03.50.13:278][617]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.01.31-03.50.13:282][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003867s)
+[2024.01.31-03.50.13:282][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003901s)
+[2024.01.31-03.50.13:296][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.31-03.50.13:297][617]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.31-03.50.13:297][617]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.31-03.50.13:297][617]LogAIModule: Creating AISystem for world Main
+[2024.01.31-03.50.13:298][617]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2024.01.31-03.50.13:298][617]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.01.31-03.50.13:298][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.31-03.50.13:298][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.31-03.50.13:298][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.31-03.50.13:298][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.31-03.50.13:298][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.31-03.50.13:298][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.31-03.50.13:298][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.31-03.50.13:298][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.31-03.50.13:299][617]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.31-03.50.13:299][617]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.31-03.50.13:299][617]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.31-03.50.13:300][617]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.31-03.50.13:345][617]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.01.31-03.50.13:345][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.31-03.50.13:345][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.31-03.50.13:345][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.31-03.50.13:346][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.01.31-03.50.13:346][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.01.31-03.50.13:348][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.01.31-03.50.13:348][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.01.31-03.50.13:348][617]LogInit: FAudioDevice initialized with ID 4.
+[2024.01.31-03.50.13:348][617]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2024.01.31-03.50.13:348][617]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.31-03.50.13:350][617]LogLoad: Game class is 'GameModeBase'
+[2024.01.31-03.50.13:352][617]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.31-12.50.13
+[2024.01.31-03.50.13:352][617]LogWorld: Bringing up level for play took: 0.001975
+[2024.01.31-03.50.13:354][617]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.01.31-03.50.13:355][617]LogBlueprintUserMessages: [BP_PawnTank_C_1] 400.0
+[2024.01.31-03.50.13:356][617]PIE: 서버가 로그인했습니다.
+[2024.01.31-03.50.13:357][617]PIE: 에디터에서 플레이 총 시작 시간 0.082초입니다.
+[2024.01.31-03.50.23:955][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.31-03.50.23:955][879]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.01.31-03.50.23:955][879]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.31-03.50.23:955][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.31-03.50.23:959][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.31-03.50.23:965][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.31-03.50.23:978][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.31-03.50.23:978][879]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.31-03.50.23:978][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.31-03.50.23:980][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.31-03.50.23:987][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.31-03.50.24:064][880]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.01.31-03.50.29:852][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.31-03.50.31:854][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
