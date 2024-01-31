@@ -20,6 +20,8 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+	
+
 private:
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Component", meta = (AllowPrivateAccess = "true"))
 	class USpringArmComponent* SpringArmComp;
@@ -28,4 +30,7 @@ private:
 	class UCameraComponent* CameraComp;
 
 	void Move(float Value);
+
+	UPROPERTY(EditAnywhere, Category = "Movement")
+	float Speed = 600.0f;
 };
