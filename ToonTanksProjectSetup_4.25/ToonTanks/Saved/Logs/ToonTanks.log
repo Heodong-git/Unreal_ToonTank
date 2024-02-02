@@ -1306,3 +1306,910 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2024.02.02-04.29.43:049][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
 [2024.02.02-04.29.43:077][471]LogPlayLevel: Display: Destroying online subsystem :Context_7
 [2024.02.02-04.30.58:567][846]LogDerivedDataCache: C:/Users/zest2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.164 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9953 files in 12388 folders with total size 1238 MiB.
+[2024.02.02-04.36.05:176][255]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-04.36.05:181][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-04.36.05:181][255]PIE: New page: PIE 세션: Main (2024. 2. 2. 오후 10:36:05)
+[2024.02.02-04.36.05:213][255]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-04.36.05:218][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004866s)
+[2024.02.02-04.36.05:218][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004933s)
+[2024.02.02-04.36.05:235][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.02.02-04.36.05:238][255]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-04.36.05:238][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-04.36.05:238][255]LogAIModule: Creating AISystem for world Main
+[2024.02.02-04.36.05:239][255]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2024.02.02-04.36.05:239][255]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.02-04.36.05:239][255]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-04.36.05:239][255]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-04.36.05:239][255]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-04.36.05:239][255]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-04.36.05:239][255]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-04.36.05:239][255]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-04.36.05:239][255]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-04.36.05:239][255]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-04.36.05:239][255]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-04.36.05:239][255]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-04.36.05:239][255]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-04.36.05:241][255]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-04.36.05:277][255]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-04.36.05:277][255]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-04.36.05:277][255]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-04.36.05:277][255]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-04.36.05:277][255]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.02.02-04.36.05:277][255]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.02.02-04.36.05:279][255]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.02.02-04.36.05:279][255]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.02.02-04.36.05:279][255]LogInit: FAudioDevice initialized with ID 4.
+[2024.02.02-04.36.05:279][255]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2024.02.02-04.36.05:279][255]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.02-04.36.05:282][255]LogLoad: Game class is 'GameModeBase'
+[2024.02.02-04.36.05:284][255]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.02-13.36.05
+[2024.02.02-04.36.05:284][255]LogWorld: Bringing up level for play took: 0.001897
+[2024.02.02-04.36.05:286][255]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.02.02-04.36.05:287][255]PIE: 서버가 로그인했습니다.
+[2024.02.02-04.36.05:288][255]PIE: 에디터에서 플레이 총 시작 시간 0.107초입니다.
+[2024.02.02-04.36.09:734][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-04.36.09:734][784]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-04.36.09:734][784]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-04.36.09:734][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-04.36.09:737][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-04.36.09:741][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-04.36.09:754][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-04.36.09:754][784]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.02-04.36.09:754][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.02-04.36.09:756][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.02-04.36.09:762][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.02.02-04.36.09:819][788]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.02.02-04.36.10:762][898]LogSlate: Took 0.004578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.02-04.36.17:763][647]LogViewport: Scene viewport resized to 955x584, mode Windowed.
+[2024.02.02-04.36.22:524][204]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.02.02-04.36.29:979][ 78]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-04.36.29:983][ 78]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2024.02.02-04.36.29:986][ 78]LogPlayLevel: [PlayLevel] Compiling BP_PawnTank before play...
+[2024.02.02-04.36.30:030][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.02.02-04.36.30:031][ 78]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2024.02.02-04.36.30:031][ 78]PIE: New page: PIE 세션: Main (2024. 2. 2. 오후 10:36:30)
+[2024.02.02-04.36.30:063][ 78]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-04.36.30:067][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004113s)
+[2024.02.02-04.36.30:067][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004144s)
+[2024.02.02-04.36.30:080][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.02.02-04.36.30:080][ 78]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-04.36.30:082][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-04.36.30:082][ 78]LogAIModule: Creating AISystem for world Main
+[2024.02.02-04.36.30:082][ 78]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2024.02.02-04.36.30:082][ 78]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.02.02-04.36.30:082][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-04.36.30:082][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-04.36.30:082][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-04.36.30:082][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-04.36.30:082][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-04.36.30:082][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-04.36.30:082][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-04.36.30:082][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-04.36.30:083][ 78]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-04.36.30:083][ 78]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-04.36.30:083][ 78]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-04.36.30:085][ 78]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-04.36.30:119][ 78]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-04.36.30:119][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-04.36.30:119][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-04.36.30:119][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-04.36.30:120][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.02.02-04.36.30:120][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.02.02-04.36.30:122][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.02.02-04.36.30:122][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.02.02-04.36.30:122][ 78]LogInit: FAudioDevice initialized with ID 5.
+[2024.02.02-04.36.30:122][ 78]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2024.02.02-04.36.30:122][ 78]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.02-04.36.30:124][ 78]LogLoad: Game class is 'GameModeBase'
+[2024.02.02-04.36.30:125][ 78]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.02-13.36.30
+[2024.02.02-04.36.30:125][ 78]LogWorld: Bringing up level for play took: 0.001577
+[2024.02.02-04.36.30:127][ 78]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.02.02-04.36.30:128][ 78]PIE: 서버가 로그인했습니다.
+[2024.02.02-04.36.30:129][ 78]PIE: 에디터에서 플레이 총 시작 시간 0.145초입니다.
+[2024.02.02-04.36.31:457][235]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:458][235]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:458][235]LogTemp: Display: OtherComponent Name : Turret Mesh
+[2024.02.02-04.36.31:481][238]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:481][238]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:481][238]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:488][239]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:488][239]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:488][239]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:497][240]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:497][240]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:497][240]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:505][241]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:505][241]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:505][241]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:513][242]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:513][242]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:513][242]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:521][243]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:521][243]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:521][243]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:530][244]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:530][244]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:530][244]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:538][245]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:538][245]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:538][245]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:547][246]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:547][246]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:547][246]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:555][247]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:555][247]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:555][247]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:563][248]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:564][248]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:564][248]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:572][249]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:572][249]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:572][249]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:580][250]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:580][250]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:580][250]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:588][251]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:588][251]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:588][251]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:597][252]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:597][252]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:597][252]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:605][253]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:605][253]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:605][253]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:613][254]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:613][254]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:613][254]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:623][255]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:623][255]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:623][255]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:623][255]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:623][255]LogTemp: Display: OtherActor Name : BP_Projectile_C_1
+[2024.02.02-04.36.31:623][255]LogTemp: Display: OtherComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:623][255]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:623][255]LogTemp: Display: OtherActor Name : BP_Projectile_C_2
+[2024.02.02-04.36.31:623][255]LogTemp: Display: OtherComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:630][256]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:630][256]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:630][256]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:638][257]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:638][257]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:638][257]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:646][258]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:646][258]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:646][258]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:655][259]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:655][259]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:655][259]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:663][260]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:663][260]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:663][260]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:671][261]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:671][261]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:671][261]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:679][262]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:679][262]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:679][262]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:688][263]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:688][263]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:688][263]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:697][264]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:697][264]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:697][264]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:697][264]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:697][264]LogTemp: Display: OtherActor Name : Floor_0
+[2024.02.02-04.36.31:697][264]LogTemp: Display: OtherComponent Name : StaticMeshComponent0
+[2024.02.02-04.36.31:705][265]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:705][265]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:705][265]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:713][266]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:713][266]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:713][266]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:721][267]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:721][267]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:721][267]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:730][268]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:730][268]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:730][268]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:738][269]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:738][269]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:738][269]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:746][270]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:746][270]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:746][270]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:755][271]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:755][271]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:755][271]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:763][272]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:763][272]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:763][272]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:772][273]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:772][273]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:772][273]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:780][274]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:780][274]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:780][274]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:788][275]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:788][275]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:788][275]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:796][276]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:796][276]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:796][276]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:805][277]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:805][277]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:805][277]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:813][278]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:814][278]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:814][278]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:822][279]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:822][279]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:822][279]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:830][280]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:830][280]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:830][280]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:838][281]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:838][281]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:838][281]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:846][282]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:847][282]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:847][282]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:855][283]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:855][283]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:855][283]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:863][284]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:863][284]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:863][284]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:871][285]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:871][285]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:871][285]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:880][286]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:880][286]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:880][286]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:888][287]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:888][287]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:888][287]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:897][288]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:897][288]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:897][288]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:905][289]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:905][289]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:905][289]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:913][290]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:913][290]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:913][290]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.31:922][291]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.31:922][291]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.31:922][291]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.32:632][376]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.32:632][376]LogTemp: Display: OtherActor Name : BP_Projectile_C_2
+[2024.02.02-04.36.32:632][376]LogTemp: Display: OtherComponent Name : Projectile Mesh
+[2024.02.02-04.36.32:632][376]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.32:632][376]LogTemp: Display: OtherActor Name : BP_Projectile_C_3
+[2024.02.02-04.36.32:632][376]LogTemp: Display: OtherComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:130][436]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:130][436]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:130][436]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:138][437]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:138][437]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:138][437]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:146][438]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:146][438]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:146][438]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:155][439]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:155][439]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:155][439]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:164][440]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:164][440]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:164][440]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:172][441]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:172][441]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:172][441]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:180][442]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:180][442]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:180][442]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:189][443]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:189][443]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:189][443]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:196][444]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:196][444]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:196][444]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:205][445]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:205][445]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:205][445]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:214][446]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:214][446]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:214][446]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:222][447]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:222][447]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:222][447]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:230][448]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:230][448]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:230][448]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:239][449]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:239][449]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:239][449]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:247][450]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:247][450]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:247][450]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:255][451]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:255][451]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:255][451]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:264][452]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:264][452]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:264][452]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:272][453]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:272][453]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:272][453]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:280][454]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:280][454]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:280][454]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:289][455]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:289][455]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:289][455]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:297][456]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:297][456]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:297][456]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:305][457]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:305][457]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:305][457]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:314][458]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:314][458]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:314][458]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:322][459]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:322][459]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:322][459]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:330][460]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:330][460]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:330][460]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:338][461]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:338][461]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:338][461]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:347][462]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:347][462]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:347][462]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:354][463]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:354][463]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:354][463]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:363][464]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:363][464]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:363][464]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:371][465]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:372][465]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:372][465]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:380][466]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:380][466]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:380][466]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:389][467]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:389][467]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:389][467]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:397][468]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:397][468]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:397][468]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:405][469]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:406][469]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:406][469]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:413][470]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:413][470]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:413][470]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:422][471]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:422][471]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:422][471]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:431][472]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:431][472]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:431][472]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:438][473]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:438][473]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:438][473]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:446][474]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:447][474]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:447][474]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:455][475]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:455][475]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:455][475]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:463][476]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:463][476]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:463][476]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:472][477]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:472][477]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:472][477]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:480][478]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:480][478]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:480][478]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:488][479]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:488][479]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:488][479]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:497][480]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:497][480]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:497][480]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:505][481]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:505][481]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:505][481]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:513][482]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:513][482]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:513][482]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:522][483]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:522][483]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:522][483]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.33:530][484]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.33:531][484]LogTemp: Display: OtherActor Name : BP_PawnTank_C_1
+[2024.02.02-04.36.33:531][484]LogTemp: Display: OtherComponent Name : Capsule Collider
+[2024.02.02-04.36.37:222][927]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.37:222][927]LogTemp: Display: OtherActor Name : Floor_0
+[2024.02.02-04.36.37:222][927]LogTemp: Display: OtherComponent Name : StaticMeshComponent0
+[2024.02.02-04.36.37:605][973]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.37:605][973]LogTemp: Display: OtherActor Name : Floor_0
+[2024.02.02-04.36.37:605][973]LogTemp: Display: OtherComponent Name : StaticMeshComponent0
+[2024.02.02-04.36.37:805][997]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.37:805][997]LogTemp: Display: OtherActor Name : Floor_0
+[2024.02.02-04.36.37:805][997]LogTemp: Display: OtherComponent Name : StaticMeshComponent0
+[2024.02.02-04.36.37:955][ 15]LogTemp: Display: HitComponent Name : Projectile Mesh
+[2024.02.02-04.36.37:955][ 15]LogTemp: Display: OtherActor Name : Floor_0
+[2024.02.02-04.36.37:955][ 15]LogTemp: Display: OtherComponent Name : StaticMeshComponent0
+[2024.02.02-04.36.39:294][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-04.36.39:294][172]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-04.36.39:294][172]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-04.36.39:294][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-04.36.39:297][172]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-04.36.39:302][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-04.36.39:319][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-04.36.39:320][172]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.02-04.36.39:320][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.02-04.36.39:321][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.02-04.36.39:328][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.02.02-04.36.39:380][174]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.02.02-04.39.49:918][ 88]Running C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2024.02.02-04.39.50:036][ 88]Using bundled DotNet SDK version: 6.0.302
+[2024.02.02-04.39.50:036][ 88]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2024.02.02-04.39.51:242][ 88]Log file: C:\Users\zest2\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.02.02-04.39.51:644][ 88]
+[2024.02.02-04.39.51:644][ 88]Some Platforms were skipped due to invalid SDK setup: Android, Linux, LinuxArm64.
+[2024.02.02-04.39.51:644][ 88]See the log file for detailed information
+[2024.02.02-04.39.51:644][ 88]
+[2024.02.02-04.39.51:644][ 88]
+[2024.02.02-04.39.51:644][ 88]Generating VisualStudio2022 project files:
+[2024.02.02-04.39.51:745][ 88]Discovering modules, targets and source code for project...
+[2024.02.02-04.39.55:667][ 88]Binding IntelliSense data...
+[2024.02.02-04.40.13:679][ 88]Binding IntelliSense data... 75%
+[2024.02.02-04.40.13:680][ 88]Binding IntelliSense data... 100%
+[2024.02.02-04.40.13:680][ 88]Creating common properties file...
+[2024.02.02-04.40.13:680][ 88]Creating common properties file... 0%
+[2024.02.02-04.40.13:680][ 88]Writing project files...
+[2024.02.02-04.40.13:782][ 88]Forcing LEGACY XCODE because host OS is not Mac
+[2024.02.02-04.40.15:225][ 88]Writing project files... 100%
+[2024.02.02-04.40.15:226][ 88]
+[2024.02.02-04.40.15:226][ 88]Generating QueryTargets data for editor...
+[2024.02.02-04.40.15:544][ 88]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.02-04.40.16:115][ 88]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2024.02.02-04.40.16:347][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.02-04.40.16:349][ 89]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.025
+[2024.02.02-04.40.16:350][ 89]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_PawnTank] ([2] browsable assets)...
+[2024.02.02-04.40.16:351][ 89]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-04.40.16:439][ 89]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank]
+[2024.02.02-04.40.16:440][ 89]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-04.40.16:496][ 89]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank_C]
+[2024.02.02-04.40.16:496][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_PawnTank]
+[2024.02.02-04.40.16:510][ 89]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.012225 seconds
+[2024.02.02-04.40.16:525][ 89]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Pawns/BP_PawnTank_Auto1
+[2024.02.02-04.40.16:525][ 89]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_PawnTank_Auto1BC38EB074C44274B604D1C803DBC0C43.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawns/BP_PawnTank_Auto1.uasset'
+[2024.02.02-04.40.16:528][ 89]LogFileHelpers: Auto-saving content packages took 0.178
+[2024.02.02-04.40.32:098][137]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_1.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_1.exp 개체를 생성하고 있습니다.
+[2024.02.02-04.40.32:345][138]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.02.02-04.40.32:345][138]LogClass: Could not find existing class HealthComponent in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.02.02-04.40.32:410][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.02-04.40.32:963][139]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new
+[2024.02.02-04.40.32:963][139]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.02-04.45.20:593][153]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.02-04.45.27:210][422]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_2.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_2.exp 개체를 생성하고 있습니다.
+[2024.02.02-04.45.27:641][424]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.02.02-04.45.27:641][424]LogClass: UClass HealthComponent Reload.
+[2024.02.02-04.45.27:641][424]LogClass: Could not find existing class HealthComponent in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.02.02-04.45.27:649][424]Re-instancing HealthComponent after reload.
+[2024.02.02-04.45.27:768][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.02.02-04.45.28:264][425]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.02.02-04.45.28:264][425]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.02-04.46.35:675][627]LogSlate: Took 0.000670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.02-04.46.35:691][628]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-04.48.18:092][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-04.48.18:170][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTank" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset" SILENT=true
+[2024.02.02-04.48.18:174][908]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTank
+[2024.02.02-04.48.18:175][908]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_PawnTank6314F10749C00662F979048961723EA3.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2024.02.02-04.48.18:183][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms
+[2024.02.02-04.48.18:185][908]AssetCheck: New page: 에셋 저장:  BP_PawnTank
+[2024.02.02-04.48.18:185][908]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank 유효성 검사 중
+[2024.02.02-04.48.19:386][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.02.02-04.48.19:389][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-04.48.19:466][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.02-04.48.19:509][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.02.02-04.48.19:529][ 40]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.02.02-04.48.19:529][ 40]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/MainE73979D748B31CD3C8F38BA47EC22EF0.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap'
+[2024.02.02-04.48.19:536][ 40]LogFileHelpers: Saving map 'Main' took 0.075
+[2024.02.02-04.48.19:543][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 243 ms)
+[2024.02.02-04.48.19:544][ 40]AssetCheck: New page: 에셋 저장:  Main
+[2024.02.02-04.48.19:544][ 40]LogContentValidation: Display: /Script/Engine.World /Game/Maps/Main.Main 유효성 검사 중
+[2024.02.02-04.48.22:119][344]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-04.48.22:119][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-04.48.22:141][344]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret
+[2024.02.02-04.48.22:142][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-04.48.22:142][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-04.48.32:598][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-04.48.32:639][505]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SEditableText [SEditableTextBox.cpp(57)].
+[2024.02.02-04.48.32:681][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-04.48.32:704][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTurret" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset" SILENT=true
+[2024.02.02-04.48.32:708][505]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTurret
+[2024.02.02-04.48.32:708][505]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_PawnTurretCE6DD01D4836152895D161B53EF5A075.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset'
+[2024.02.02-04.48.32:716][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 362 ms)
+[2024.02.02-04.48.32:717][505]AssetCheck: New page: 에셋 저장:  BP_PawnTurret
+[2024.02.02-04.48.32:717][505]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret 유효성 검사 중
+[2024.02.02-04.48.32:809][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-04.48.32:883][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTurret" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset" SILENT=true
+[2024.02.02-04.48.32:887][516]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTurret
+[2024.02.02-04.48.32:887][516]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_PawnTurret3498DA5643D650893E4C45A1F2BEB689.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset'
+[2024.02.02-04.48.32:894][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 447 ms)
+[2024.02.02-04.48.32:895][516]AssetCheck: New page: 에셋 저장:  BP_PawnTurret
+[2024.02.02-04.48.32:896][516]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret 유효성 검사 중
+[2024.02.02-04.49.07:572][674]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.02.02-04.49.07:572][674]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.02.02-05.08.55:915][533]BlueprintLog: New page: BP_PawnTurret 컴파일
+[2024.02.02-05.08.55:953][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.02.02-05.08.57:026][646]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.02.02-05.08.57:107][656]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.02-05.09.02:892][335]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_3.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_3.exp 개체를 생성하고 있습니다.
+[2024.02.02-05.09.03:051][344]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.02.02-05.09.03:051][344]LogClass: UClass HealthComponent Reload.
+[2024.02.02-05.09.03:051][344]LogClass: Could not find existing class HealthComponent in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.02.02-05.09.03:051][344]LogClass: Function DamageTaken is new or belongs to a modified class.
+[2024.02.02-05.09.03:059][344]Re-instancing HealthComponent after reload.
+[2024.02.02-05.09.03:149][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.02.02-05.09.03:564][345]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.02.02-05.09.03:564][345]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.02-05.30.59:748][269]LogDerivedDataCache: C:/Users/zest2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.344 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9953 files in 12388 folders with total size 1238 MiB.
+[2024.02.02-05.39.34:492][866]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.02-05.39.40:757][242]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.02-05.39.40:757][242]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.02-05.40.22:194][651]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.02-05.40.25:621][856]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_4.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_4.exp 개체를 생성하고 있습니다.
+[2024.02.02-05.40.25:774][860]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.02.02-05.40.25:774][860]LogClass: UClass Projectile Reload.
+[2024.02.02-05.40.25:774][860]LogClass: Could not find existing class Projectile in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.02.02-05.40.25:774][860]LogClass: Function OnHit is new or belongs to a modified class.
+[2024.02.02-05.40.25:787][860]Re-instancing Projectile after reload.
+[2024.02.02-05.40.26:018][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.02.02-05.40.26:404][861]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.02.02-05.40.26:404][861]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.02-05.40.31:135][104]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-05.40.31:146][104]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2024.02.02-05.40.31:146][104]LogPlayLevel: [PlayLevel] Compiling BP_PawnTank before play...
+[2024.02.02-05.40.31:255][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.02.02-05.40.31:257][104]LogPlayLevel: PlayLevel: Blueprint regeneration took 110 ms (1 blueprints)
+[2024.02.02-05.40.31:257][104]PIE: New page: PIE 세션: Main (2024. 2. 2. 오후 11:40:31)
+[2024.02.02-05.40.31:296][104]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-05.40.31:303][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005759s)
+[2024.02.02-05.40.31:303][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005875s)
+[2024.02.02-05.40.31:336][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.02.02-05.40.31:340][104]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-05.40.31:341][104]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-05.40.31:341][104]LogAIModule: Creating AISystem for world Main
+[2024.02.02-05.40.31:342][104]LogPlayLevel: PIE: World Init took: (0.001500s)
+[2024.02.02-05.40.31:342][104]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.02.02-05.40.31:342][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-05.40.31:342][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-05.40.31:342][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-05.40.31:342][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-05.40.31:342][104]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-05.40.31:342][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-05.40.31:342][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-05.40.31:342][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-05.40.31:343][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-05.40.31:343][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-05.40.31:343][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-05.40.31:345][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-05.40.31:387][104]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-05.40.31:387][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-05.40.31:387][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-05.40.31:387][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-05.40.31:388][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.02.02-05.40.31:388][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.02.02-05.40.31:390][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.02.02-05.40.31:390][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.02.02-05.40.31:390][104]LogInit: FAudioDevice initialized with ID 6.
+[2024.02.02-05.40.31:390][104]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2024.02.02-05.40.31:390][104]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.02-05.40.31:396][104]LogLoad: Game class is 'GameModeBase'
+[2024.02.02-05.40.31:397][104]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-14.40.31
+[2024.02.02-05.40.31:398][104]LogWorld: Bringing up level for play took: 0.001848
+[2024.02.02-05.40.31:401][104]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.02.02-05.40.31:402][104]PIE: 서버가 로그인했습니다.
+[2024.02.02-05.40.31:403][104]PIE: 에디터에서 플레이 총 시작 시간 0.258초입니다.
+[2024.02.02-05.40.33:568][233]LogTemp: Display: Damage Test
+[2024.02.02-05.40.43:972][857]LogTemp: Display: Damage Test
+[2024.02.02-05.40.47:425][ 64]LogTemp: Display: Damage Test
+[2024.02.02-05.40.50:345][239]LogTemp: Display: Damage Test
+[2024.02.02-05.40.50:460][246]LogTemp: Display: Damage Test
+[2024.02.02-05.40.51:167][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-05.40.51:167][286]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-05.40.51:168][286]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-05.40.51:169][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-05.40.51:177][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-05.40.51:181][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-05.40.51:191][286]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.02-05.40.51:191][286]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.02-05.40.51:192][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.02-05.40.51:194][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.02-05.40.51:199][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-05.40.51:202][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.02.02-05.40.51:227][287]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.02.02-05.41.11:697][448]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-05.41.11:704][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-05.41.11:704][448]PIE: New page: PIE 세션: Main (2024. 2. 2. 오후 11:41:11)
+[2024.02.02-05.41.11:704][448]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-05.41.11:709][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004445s)
+[2024.02.02-05.41.11:709][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004482s)
+[2024.02.02-05.41.11:721][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.02.02-05.41.11:722][448]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-05.41.11:722][448]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-05.41.11:723][448]LogAIModule: Creating AISystem for world Main
+[2024.02.02-05.41.11:723][448]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2024.02.02-05.41.11:723][448]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.02-05.41.11:723][448]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-05.41.11:723][448]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-05.41.11:723][448]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-05.41.11:723][448]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-05.41.11:723][448]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-05.41.11:723][448]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-05.41.11:723][448]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-05.41.11:723][448]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-05.41.11:724][448]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-05.41.11:724][448]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-05.41.11:724][448]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-05.41.11:725][448]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-05.41.11:763][448]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-05.41.11:764][448]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-05.41.11:764][448]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-05.41.11:764][448]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-05.41.11:765][448]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.02.02-05.41.11:765][448]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.02.02-05.41.11:766][448]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.02.02-05.41.11:766][448]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.02.02-05.41.11:766][448]LogInit: FAudioDevice initialized with ID 7.
+[2024.02.02-05.41.11:766][448]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2024.02.02-05.41.11:766][448]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.02-05.41.11:768][448]LogLoad: Game class is 'GameModeBase'
+[2024.02.02-05.41.11:770][448]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-14.41.11
+[2024.02.02-05.41.11:770][448]LogWorld: Bringing up level for play took: 0.001599
+[2024.02.02-05.41.11:772][448]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.02.02-05.41.11:773][448]PIE: 서버가 로그인했습니다.
+[2024.02.02-05.41.11:773][448]PIE: 에디터에서 플레이 총 시작 시간 0.072초입니다.
+[2024.02.02-05.41.14:264][587]LogTemp: Display: Damage Test
+[2024.02.02-05.41.14:315][590]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:633][329]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:648][330]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:665][331]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:682][332]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:698][333]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:715][334]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:732][335]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:748][336]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:765][337]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:782][338]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:799][339]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:815][340]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:832][341]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:849][342]LogTemp: Display: Damage Test
+[2024.02.02-05.41.26:865][343]LogTemp: Display: Damage Test
+[2024.02.02-05.41.27:966][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-05.41.27:966][407]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-05.41.27:966][407]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-05.41.27:966][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-05.41.27:969][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-05.41.27:974][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-05.41.27:989][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-05.41.27:990][407]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.02-05.41.27:990][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.02-05.41.27:992][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.02-05.41.28:000][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.02-05.41.28:051][409]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.02.02-05.43.51:495][992]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.02-05.43.56:371][ 73]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_5.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_5.exp 개체를 생성하고 있습니다.
+[2024.02.02-05.43.56:813][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.02.02-05.43.57:376][ 75]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.02-05.43.57:376][ 75]LogLiveCoding: Display: Live coding succeeded
+[2024.02.02-05.44.06:069][128]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-05.44.06:075][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-05.44.06:075][128]PIE: New page: PIE 세션: Main (2024. 2. 2. 오후 11:44:06)
+[2024.02.02-05.44.06:096][128]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-05.44.06:100][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004569s)
+[2024.02.02-05.44.06:100][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004633s)
+[2024.02.02-05.44.06:161][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.02.02-05.44.06:166][128]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-05.44.06:166][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-05.44.06:167][128]LogAIModule: Creating AISystem for world Main
+[2024.02.02-05.44.06:167][128]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2024.02.02-05.44.06:167][128]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.02.02-05.44.06:167][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-05.44.06:167][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-05.44.06:167][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-05.44.06:167][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-05.44.06:167][128]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-05.44.06:167][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-05.44.06:167][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-05.44.06:167][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-05.44.06:168][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-05.44.06:168][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-05.44.06:168][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-05.44.06:171][128]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-05.44.06:208][128]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-05.44.06:209][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-05.44.06:209][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-05.44.06:209][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-05.44.06:210][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.02.02-05.44.06:210][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.02.02-05.44.06:211][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.02.02-05.44.06:211][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.02.02-05.44.06:211][128]LogInit: FAudioDevice initialized with ID 8.
+[2024.02.02-05.44.06:211][128]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main'.
+[2024.02.02-05.44.06:211][128]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.02-05.44.06:213][128]LogLoad: Game class is 'GameModeBase'
+[2024.02.02-05.44.06:215][128]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-14.44.06
+[2024.02.02-05.44.06:215][128]LogWorld: Bringing up level for play took: 0.001655
+[2024.02.02-05.44.06:217][128]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.02.02-05.44.06:218][128]PIE: 서버가 로그인했습니다.
+[2024.02.02-05.44.06:219][128]PIE: 에디터에서 플레이 총 시작 시간 0.145초입니다.
+[2024.02.02-05.44.08:723][278]LogTemp: Display: Damage Test : 50.000000
+[2024.02.02-05.44.08:739][279]LogTemp: Display: Damage Test : 0.000000
+[2024.02.02-05.44.11:223][428]LogTemp: Display: Damage Test : -50.000000
+[2024.02.02-05.44.11:240][429]LogTemp: Display: Damage Test : -100.000000
+[2024.02.02-05.44.18:639][873]LogTemp: Display: Damage Test : -150.000000
+[2024.02.02-05.44.18:673][875]LogTemp: Display: Damage Test : -200.000000
+[2024.02.02-05.44.19:396][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-05.44.19:396][916]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-05.44.19:396][916]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-05.44.19:396][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-05.44.19:399][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-05.44.19:404][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-05.44.19:415][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-05.44.19:416][916]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.02-05.44.19:416][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.02-05.44.19:418][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.02-05.44.19:448][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2024.02.02-05.44.19:477][917]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.02.02-05.45.32:328][309]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.02-05.45.38:461][675]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_6.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_6.exp 개체를 생성하고 있습니다.
+[2024.02.02-05.45.38:775][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.02.02-05.45.39:156][680]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged, 1 function remapped
+[2024.02.02-05.45.39:156][680]LogLiveCoding: Display: Live coding succeeded
+[2024.02.02-05.45.41:045][757]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-05.45.41:050][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-05.45.41:050][757]PIE: New page: PIE 세션: Main (2024. 2. 2. 오후 11:45:41)
+[2024.02.02-05.45.41:076][757]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-05.45.41:080][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005240s)
+[2024.02.02-05.45.41:080][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005298s)
+[2024.02.02-05.45.41:139][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.02-05.45.41:142][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-05.45.41:142][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-05.45.41:142][757]LogAIModule: Creating AISystem for world Main
+[2024.02.02-05.45.41:143][757]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2024.02.02-05.45.41:143][757]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.02.02-05.45.41:143][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-05.45.41:143][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-05.45.41:143][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-05.45.41:143][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-05.45.41:143][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-05.45.41:143][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-05.45.41:143][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-05.45.41:143][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-05.45.41:143][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-05.45.41:143][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-05.45.41:143][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-05.45.41:145][757]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-05.45.41:181][757]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-05.45.41:181][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-05.45.41:181][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-05.45.41:181][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-05.45.41:181][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.02.02-05.45.41:181][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.02.02-05.45.41:183][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.02.02-05.45.41:183][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.02.02-05.45.41:183][757]LogInit: FAudioDevice initialized with ID 9.
+[2024.02.02-05.45.41:183][757]LogAudio: Display: Audio Device (ID: 9) registered with world 'Main'.
+[2024.02.02-05.45.41:183][757]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.02-05.45.41:186][757]LogLoad: Game class is 'GameModeBase'
+[2024.02.02-05.45.41:187][757]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-14.45.41
+[2024.02.02-05.45.41:188][757]LogWorld: Bringing up level for play took: 0.001696
+[2024.02.02-05.45.41:190][757]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.02.02-05.45.41:190][757]PIE: 서버가 로그인했습니다.
+[2024.02.02-05.45.41:191][757]PIE: 에디터에서 플레이 총 시작 시간 0.142초입니다.
+[2024.02.02-05.45.43:077][870]LogTemp: Display: Damage Test : 50.000000
+[2024.02.02-05.45.43:410][890]LogTemp: Display: Damage Test : 0.000000
+[2024.02.02-05.45.44:743][970]LogTemp: Display: Damage Test : -50.000000
+[2024.02.02-05.45.46:376][ 68]LogTemp: Display: Damage Test : 50.000000
+[2024.02.02-05.45.46:442][ 72]LogTemp: Display: Damage Test : 0.000000
+[2024.02.02-05.45.48:960][223]LogTemp: Display: Damage Test : -50.000000
+[2024.02.02-05.45.52:560][439]LogTemp: Display: Damage Test : 50.000000
+[2024.02.02-05.45.53:978][524]LogTemp: Display: Damage Test : 50.000000
+[2024.02.02-05.45.54:543][558]LogTemp: Display: Damage Test : 0.000000
+[2024.02.02-05.45.54:978][584]LogTemp: Display: Damage Test : -50.000000
+[2024.02.02-05.45.56:127][653]LogTemp: Display: Damage Test : -100.000000
+[2024.02.02-05.45.56:877][698]LogTemp: Display: Damage Test : 50.000000
+[2024.02.02-05.46.07:526][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-05.46.07:526][335]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-05.46.07:526][335]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-05.46.07:526][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-05.46.07:529][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-05.46.07:533][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-05.46.07:547][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-05.46.07:547][335]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.02-05.46.07:547][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.02-05.46.07:549][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.02-05.46.07:555][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.02.02-05.46.07:603][337]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.02.02-05.46.17:602][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-05.46.17:682][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTank" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset" SILENT=true
+[2024.02.02-05.46.17:687][926]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTank
+[2024.02.02-05.46.17:687][926]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_PawnTank291147384DE30469F7B572AB77701F20.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2024.02.02-05.46.17:695][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 539 ms)
+[2024.02.02-05.46.17:696][926]AssetCheck: New page: 에셋 저장:  BP_PawnTank
+[2024.02.02-05.46.17:696][926]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank 유효성 검사 중
+[2024.02.02-05.46.19:194][ 16]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-05.46.19:199][ 16]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2024.02.02-05.46.19:199][ 16]LogPlayLevel: [PlayLevel] Compiling BP_PawnTank before play...
+[2024.02.02-05.46.19:245][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.02-05.46.19:246][ 16]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2024.02.02-05.46.19:246][ 16]PIE: New page: PIE 세션: Main (2024. 2. 2. 오후 11:46:19)
+[2024.02.02-05.46.19:247][ 16]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-05.46.19:251][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004325s)
+[2024.02.02-05.46.19:251][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004354s)
+[2024.02.02-05.46.19:269][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.02.02-05.46.19:269][ 16]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-05.46.19:269][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-05.46.19:270][ 16]LogAIModule: Creating AISystem for world Main
+[2024.02.02-05.46.19:270][ 16]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2024.02.02-05.46.19:270][ 16]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.02.02-05.46.19:270][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-05.46.19:270][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-05.46.19:270][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-05.46.19:270][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-05.46.19:270][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-05.46.19:270][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-05.46.19:270][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-05.46.19:270][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-05.46.19:271][ 16]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-05.46.19:271][ 16]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-05.46.19:271][ 16]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-05.46.19:273][ 16]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-05.46.19:307][ 16]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-05.46.19:308][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-05.46.19:308][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-05.46.19:308][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-05.46.19:309][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.02.02-05.46.19:309][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.02.02-05.46.19:311][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.02.02-05.46.19:311][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.02.02-05.46.19:311][ 16]LogInit: FAudioDevice initialized with ID 10.
+[2024.02.02-05.46.19:311][ 16]LogAudio: Display: Audio Device (ID: 10) registered with world 'Main'.
+[2024.02.02-05.46.19:311][ 16]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.02.02-05.46.19:375][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-05.46.19:376][ 16]LogLoad: Game class is 'GameModeBase'
+[2024.02.02-05.46.19:378][ 16]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-14.46.19
+[2024.02.02-05.46.19:378][ 16]LogWorld: Bringing up level for play took: 0.001891
+[2024.02.02-05.46.19:381][ 16]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.02.02-05.46.19:383][ 16]PIE: 서버가 로그인했습니다.
+[2024.02.02-05.46.19:385][ 16]PIE: 에디터에서 플레이 총 시작 시간 0.186초입니다.
+[2024.02.02-05.46.19:428][ 16]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.02.02-05.46.21:226][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-05.46.21:226][119]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-05.46.21:227][119]LogSlate: Window 'ToonTanks 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2024.02.02-05.46.21:232][119]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-05.46.21:232][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-05.46.21:234][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-05.46.21:238][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-05.46.21:253][119]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.02.02-05.46.21:253][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.02-05.46.21:256][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.02-05.46.21:264][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.02.02-05.46.21:313][121]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.02.02-05.46.46:757][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.02-05.46.46:775][349]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Main_Auto2
+[2024.02.02-05.46.46:776][349]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Main_Auto2F52E3B914485F92B41A4C49DB6E4965D.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2024.02.02-05.46.46:777][349]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto2.umap is in the /Temp path, will not scan.
+[2024.02.02-05.46.46:777][349]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.036
+[2024.02.02-05.46.46:777][349]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036

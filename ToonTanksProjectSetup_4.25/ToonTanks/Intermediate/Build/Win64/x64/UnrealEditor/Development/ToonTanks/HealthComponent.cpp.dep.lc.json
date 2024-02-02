@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\healthcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\x64\\toontankseditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\healthcomponent.h",
+            "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\healthcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
