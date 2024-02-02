@@ -7,6 +7,7 @@
 #include "DrawDebugHelpers.h"
 #include "Projectile.h"
 #include "Kismet/GameplayStatics.h"
+#include "Camera/CameraShakeBase.h"
 
 // Sets default values
 ABasePawn::ABasePawn()
@@ -35,6 +36,11 @@ void ABasePawn::HandleDestruction()
 	if (nullptr != DestroySound)
 	{
 		UGameplayStatics::PlaySoundAtLocation(this, DestroySound, GetActorLocation());
+	}
+
+	if (nullptr != DestroyCameraShakeClass)
+	{
+		GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(DestroyCameraShakeClass);
 	}
 }
 
