@@ -35,7 +35,12 @@ void ATower::Tick(float DeltaTime)
 
 void ATower::CheckFireCondition()
 {
-	if (true == InFireRange())
+	if (nullptr == Tank)
+	{
+		return;
+	}
+
+	if (true == InFireRange() && Tank->Alive == true)
 	{
 		Fire();
 	}

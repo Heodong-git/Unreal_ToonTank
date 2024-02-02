@@ -22,9 +22,9 @@ void ATank::HandleDestruction()
 	Super::HandleDestruction();
 	
 	SetActorHiddenInGame(true);
-
 	// ∆Ω ∫Ò»∞º∫ 
 	SetActorTickEnabled(false);
+	Alive = false;
 }
 
 // Called when the game starts or when spawned
