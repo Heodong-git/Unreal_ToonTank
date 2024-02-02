@@ -1579,3 +1579,1212 @@ C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEdi
 [2024.02.02-08.51.03:925][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.02.02-08.51.03:938][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
 [2024.02.02-08.51.03:985][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.02.02-08.54.18:562][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-08.54.18:641][600]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_GameStartWidget
+[2024.02.02-08.54.18:642][600]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/WBP_GameStartWidgetC1A9601F46FC970B0530BF94A5ECE234.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Widgets/WBP_GameStartWidget.uasset'
+[2024.02.02-08.54.18:648][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 456 ms)
+[2024.02.02-08.54.18:648][600]AssetCheck: New page: 에셋 저장:  WBP_GameStartWidget
+[2024.02.02-08.54.18:649][600]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WBP_GameStartWidget.WBP_GameStartWidget 유효성 검사 중
+[2024.02.02-08.54.20:323][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-08.54.20:418][701]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_GameStartWidget
+[2024.02.02-08.54.20:419][701]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/WBP_GameStartWidgetE80868E649C7987E7B0F369DFF479DD1.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Widgets/WBP_GameStartWidget.uasset'
+[2024.02.02-08.54.20:425][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 558 ms)
+[2024.02.02-08.54.20:426][701]AssetCheck: New page: 에셋 저장:  WBP_GameStartWidget
+[2024.02.02-08.54.20:426][701]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WBP_GameStartWidget.WBP_GameStartWidget 유효성 검사 중
+[2024.02.02-08.54.20:745][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.02-08.55.31:461][950]LogSlate: Took 0.005051 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.02.02-08.55.50:361][  7]BlueprintLog: New page: WBP_GameStartWidget 컴파일
+[2024.02.02-08.55.50:389][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.02-08.59.16:380][935]BlueprintLog: New page: WBP_GameStartWidget 컴파일
+[2024.02.02-08.59.16:407][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.02.02-08.59.17:308][987]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-08.59.17:315][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-08.59.17:315][987]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 2:59:17)
+[2024.02.02-08.59.17:315][987]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-08.59.17:319][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004434s)
+[2024.02.02-08.59.17:319][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004466s)
+[2024.02.02-08.59.17:336][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.02.02-08.59.17:336][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-08.59.17:336][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-08.59.17:337][987]LogAIModule: Creating AISystem for world Main
+[2024.02.02-08.59.17:337][987]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2024.02.02-08.59.17:337][987]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.02-08.59.17:337][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-08.59.17:337][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-08.59.17:337][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-08.59.17:337][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-08.59.17:337][987]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-08.59.17:337][987]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-08.59.17:337][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-08.59.17:337][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-08.59.17:338][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-08.59.17:338][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-08.59.17:338][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-08.59.17:340][987]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-08.59.17:376][987]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-08.59.17:376][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-08.59.17:376][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-08.59.17:376][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-08.59.17:377][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.02.02-08.59.17:377][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.02.02-08.59.17:379][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.02.02-08.59.17:379][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.02.02-08.59.17:379][987]LogInit: FAudioDevice initialized with ID 7.
+[2024.02.02-08.59.17:379][987]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2024.02.02-08.59.17:379][987]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.02-08.59.17:447][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-08.59.17:447][987]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-08.59.17:450][987]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-17.59.17
+[2024.02.02-08.59.17:450][987]LogWorld: Bringing up level for play took: 0.001684
+[2024.02.02-08.59.17:452][987]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.02.02-08.59.17:455][987]PIE: 서버가 로그인했습니다.
+[2024.02.02-08.59.17:456][987]PIE: 에디터에서 플레이 총 시작 시간 0.141초입니다.
+[2024.02.02-08.59.17:462][987]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.02.02-08.59.17:514][987]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.875
+[2024.02.02-08.59.17:522][988]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.813609
+[2024.02.02-08.59.17:538][989]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.79739
+[2024.02.02-08.59.17:587][990]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.748479
+[2024.02.02-08.59.17:643][991]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.692954
+[2024.02.02-08.59.17:695][992]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.640499
+[2024.02.02-08.59.17:742][993]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.593091
+[2024.02.02-08.59.17:779][994]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.556704
+[2024.02.02-08.59.17:794][995]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.541052
+[2024.02.02-08.59.17:813][996]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.524331
+[2024.02.02-08.59.17:829][997]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.507687
+[2024.02.02-08.59.17:846][998]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.490817
+[2024.02.02-08.59.17:861][999]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.474215
+[2024.02.02-08.59.17:878][  0]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.457683
+[2024.02.02-08.59.17:895][  1]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.441069
+[2024.02.02-08.59.17:911][  2]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.424601
+[2024.02.02-08.59.17:928][  3]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.407836
+[2024.02.02-08.59.17:945][  4]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.391171
+[2024.02.02-08.59.17:961][  5]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.374346
+[2024.02.02-08.59.17:978][  6]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.357732
+[2024.02.02-08.59.17:995][  7]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.34118
+[2024.02.02-08.59.18:011][  8]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.324375
+[2024.02.02-08.59.18:029][  9]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.307786
+[2024.02.02-08.59.18:045][ 10]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.291142
+[2024.02.02-08.59.18:063][ 11]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.274428
+[2024.02.02-08.59.18:078][ 12]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.257704
+[2024.02.02-08.59.18:095][ 13]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.241011
+[2024.02.02-08.59.18:112][ 14]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.224412
+[2024.02.02-08.59.18:128][ 15]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.207778
+[2024.02.02-08.59.18:145][ 16]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.191142
+[2024.02.02-08.59.18:161][ 17]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.174362
+[2024.02.02-08.59.18:178][ 18]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.157676
+[2024.02.02-08.59.18:195][ 19]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.141098
+[2024.02.02-08.59.18:212][ 20]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.124444
+[2024.02.02-08.59.18:228][ 21]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.107744
+[2024.02.02-08.59.18:245][ 22]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.09115
+[2024.02.02-08.59.18:262][ 23]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.074268
+[2024.02.02-08.59.18:279][ 24]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.057708
+[2024.02.02-08.59.18:295][ 25]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.041001
+[2024.02.02-08.59.18:312][ 26]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.024239
+[2024.02.02-08.59.18:328][ 27]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2.007669
+[2024.02.02-08.59.18:345][ 28]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.991102
+[2024.02.02-08.59.18:362][ 29]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.974519
+[2024.02.02-08.59.18:379][ 30]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.957802
+[2024.02.02-08.59.18:395][ 31]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.941117
+[2024.02.02-08.59.18:412][ 32]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.924411
+[2024.02.02-08.59.18:429][ 33]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.907751
+[2024.02.02-08.59.18:445][ 34]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.891123
+[2024.02.02-08.59.18:462][ 35]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.874373
+[2024.02.02-08.59.18:479][ 36]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.857811
+[2024.02.02-08.59.18:496][ 37]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.841145
+[2024.02.02-08.59.18:513][ 38]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.824369
+[2024.02.02-08.59.18:528][ 39]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.807739
+[2024.02.02-08.59.18:546][ 40]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.791095
+[2024.02.02-08.59.18:561][ 41]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.774515
+[2024.02.02-08.59.18:579][ 42]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.757747
+[2024.02.02-08.59.18:595][ 43]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.74109
+[2024.02.02-08.59.18:612][ 44]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.724397
+[2024.02.02-08.59.18:628][ 45]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.707649
+[2024.02.02-08.59.18:645][ 46]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.690972
+[2024.02.02-08.59.18:661][ 47]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.674546
+[2024.02.02-08.59.18:679][ 48]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.657675
+[2024.02.02-08.59.18:695][ 49]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.640937
+[2024.02.02-08.59.18:712][ 50]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.624364
+[2024.02.02-08.59.18:728][ 51]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.60769
+[2024.02.02-08.59.18:745][ 52]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.591114
+[2024.02.02-08.59.18:762][ 53]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.574334
+[2024.02.02-08.59.18:778][ 54]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.557693
+[2024.02.02-08.59.18:795][ 55]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.540991
+[2024.02.02-08.59.18:812][ 56]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.52446
+[2024.02.02-08.59.18:830][ 57]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.507515
+[2024.02.02-08.59.18:846][ 58]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.490853
+[2024.02.02-08.59.18:862][ 59]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.474321
+[2024.02.02-08.59.18:878][ 60]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.457689
+[2024.02.02-08.59.18:895][ 61]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.441099
+[2024.02.02-08.59.18:912][ 62]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.424388
+[2024.02.02-08.59.18:929][ 63]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.407772
+[2024.02.02-08.59.18:946][ 64]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.390765
+[2024.02.02-08.59.18:961][ 65]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.374441
+[2024.02.02-08.59.18:979][ 66]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.357598
+[2024.02.02-08.59.18:995][ 67]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.341134
+[2024.02.02-08.59.19:013][ 68]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.323996
+[2024.02.02-08.59.19:029][ 69]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.307613
+[2024.02.02-08.59.19:045][ 70]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.29078
+[2024.02.02-08.59.19:061][ 71]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.274353
+[2024.02.02-08.59.19:079][ 72]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.257564
+[2024.02.02-08.59.19:095][ 73]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.241119
+[2024.02.02-08.59.19:112][ 74]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.224343
+[2024.02.02-08.59.19:128][ 75]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.207693
+[2024.02.02-08.59.19:146][ 76]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.190249
+[2024.02.02-08.59.19:162][ 77]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.174305
+[2024.02.02-08.59.19:179][ 78]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.157643
+[2024.02.02-08.59.19:195][ 79]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.140915
+[2024.02.02-08.59.19:212][ 80]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.124395
+[2024.02.02-08.59.19:229][ 81]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.107131
+[2024.02.02-08.59.19:246][ 82]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.090634
+[2024.02.02-08.59.19:263][ 83]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.073719
+[2024.02.02-08.59.19:279][ 84]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.057507
+[2024.02.02-08.59.19:296][ 85]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.040826
+[2024.02.02-08.59.19:312][ 86]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.02437
+[2024.02.02-08.59.19:328][ 87]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1.007658
+[2024.02.02-08.59.19:345][ 88]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.990866
+[2024.02.02-08.59.19:362][ 89]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.974199
+[2024.02.02-08.59.19:378][ 90]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.957713
+[2024.02.02-08.59.19:395][ 91]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.941078
+[2024.02.02-08.59.19:412][ 92]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.924357
+[2024.02.02-08.59.19:428][ 93]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.907676
+[2024.02.02-08.59.19:446][ 94]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.890828
+[2024.02.02-08.59.19:462][ 95]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.874323
+[2024.02.02-08.59.19:480][ 96]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.857088
+[2024.02.02-08.59.19:496][ 97]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.840825
+[2024.02.02-08.59.19:512][ 98]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.824336
+[2024.02.02-08.59.19:529][ 99]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.807622
+[2024.02.02-08.59.19:546][100]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.790911
+[2024.02.02-08.59.19:562][101]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.774364
+[2024.02.02-08.59.19:579][102]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.75756
+[2024.02.02-08.59.19:596][103]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.740618
+[2024.02.02-08.59.19:611][104]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.724257
+[2024.02.02-08.59.19:628][105]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.70763
+[2024.02.02-08.59.19:645][106]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.690772
+[2024.02.02-08.59.19:662][107]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.67385
+[2024.02.02-08.59.19:679][108]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.657127
+[2024.02.02-08.59.19:696][109]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.641025
+[2024.02.02-08.59.19:712][110]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.624183
+[2024.02.02-08.59.19:728][111]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.607561
+[2024.02.02-08.59.19:746][112]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.591055
+[2024.02.02-08.59.19:762][113]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.574029
+[2024.02.02-08.59.19:779][114]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.557457
+[2024.02.02-08.59.19:796][115]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.540989
+[2024.02.02-08.59.19:811][116]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.524268
+[2024.02.02-08.59.19:828][117]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.507407
+[2024.02.02-08.59.19:845][118]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.4911
+[2024.02.02-08.59.19:862][119]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.474147
+[2024.02.02-08.59.19:879][120]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.45759
+[2024.02.02-08.59.19:895][121]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.441095
+[2024.02.02-08.59.19:912][122]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.423935
+[2024.02.02-08.59.19:929][123]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.407286
+[2024.02.02-08.59.19:945][124]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.390711
+[2024.02.02-08.59.19:962][125]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.374246
+[2024.02.02-08.59.19:979][126]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.357384
+[2024.02.02-08.59.19:996][127]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.34068
+[2024.02.02-08.59.20:011][128]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.324142
+[2024.02.02-08.59.20:028][129]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.307434
+[2024.02.02-08.59.20:045][130]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.290571
+[2024.02.02-08.59.20:062][131]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.273859
+[2024.02.02-08.59.20:078][132]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.257386
+[2024.02.02-08.59.20:095][133]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.240764
+[2024.02.02-08.59.20:112][134]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.223971
+[2024.02.02-08.59.20:129][135]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.207014
+[2024.02.02-08.59.20:145][136]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.190485
+[2024.02.02-08.59.20:162][137]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.173857
+[2024.02.02-08.59.20:178][138]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.157466
+[2024.02.02-08.59.20:195][139]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.1404
+[2024.02.02-08.59.20:212][140]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0.123728
+[2024.02.02-08.59.20:258][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-08.59.20:259][141]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-08.59.20:259][141]LogSlate: Window 'ToonTanks 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2024.02.02-08.59.20:263][141]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-08.59.20:263][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-08.59.20:265][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-08.59.20:270][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-08.59.20:284][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.02-08.59.20:284][141]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.02-08.59.20:284][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.02-08.59.20:285][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.02-08.59.20:292][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.02.02-08.59.20:324][143]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.02.02-08.59.45:389][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.02.02-08.59.45:390][311]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.016
+[2024.02.02-08.59.45:390][311]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/WBP_GameStartWidget] ([2] browsable assets)...
+[2024.02.02-08.59.45:395][311]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/WBP_GameStartWidget.WBP_GameStartWidget]
+[2024.02.02-08.59.45:395][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WBP_GameStartWidget]
+[2024.02.02-08.59.45:403][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Widgets/WBP_GameStartWidget_Auto2
+[2024.02.02-08.59.45:403][311]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/WBP_GameStartWidget_Auto2D5271B304E5C9651ECF1BE9BC0312D79.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Autosaves/Game/Blueprints/Widgets/WBP_GameStartWidget_Auto2.uasset'
+[2024.02.02-08.59.45:404][311]LogFileHelpers: Auto-saving content packages took 0.014
+[2024.02.02-09.00.45:871][924]BlueprintLog: New page: WBP_GameStartWidget 컴파일
+[2024.02.02-09.00.45:893][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.02-09.00.47:134][987]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-09.00.47:139][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-09.00.47:139][987]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 3:00:47)
+[2024.02.02-09.00.47:140][987]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.00.47:144][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004290s)
+[2024.02.02-09.00.47:144][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004320s)
+[2024.02.02-09.00.47:156][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.02.02-09.00.47:157][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-09.00.47:157][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-09.00.47:157][987]LogAIModule: Creating AISystem for world Main
+[2024.02.02-09.00.47:157][987]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2024.02.02-09.00.47:157][987]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.02.02-09.00.47:157][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-09.00.47:157][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-09.00.47:158][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-09.00.47:158][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-09.00.47:158][987]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-09.00.47:158][987]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-09.00.47:158][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-09.00.47:158][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-09.00.47:158][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-09.00.47:158][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-09.00.47:158][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-09.00.47:160][987]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-09.00.47:195][987]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-09.00.47:196][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-09.00.47:196][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-09.00.47:196][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-09.00.47:197][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.02.02-09.00.47:197][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.02.02-09.00.47:199][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.02.02-09.00.47:199][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.02.02-09.00.47:199][987]LogInit: FAudioDevice initialized with ID 8.
+[2024.02.02-09.00.47:199][987]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main'.
+[2024.02.02-09.00.47:199][987]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.02-09.00.47:201][987]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-09.00.47:202][987]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-18.00.47
+[2024.02.02-09.00.47:203][987]LogWorld: Bringing up level for play took: 0.001470
+[2024.02.02-09.00.47:204][987]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.02.02-09.00.47:206][987]PIE: 서버가 로그인했습니다.
+[2024.02.02-09.00.47:207][987]PIE: 에디터에서 플레이 총 시작 시간 0.068초입니다.
+[2024.02.02-09.00.47:213][987]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:230][988]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:246][989]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:266][990]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:279][991]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:296][992]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:313][993]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:329][994]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:346][995]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:362][996]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:379][997]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:395][998]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:412][999]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:430][  0]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:446][  1]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:463][  2]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:479][  3]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:496][  4]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:513][  5]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:530][  6]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:545][  7]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:562][  8]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:579][  9]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:596][ 10]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:612][ 11]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:629][ 12]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:645][ 13]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:663][ 14]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:679][ 15]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:695][ 16]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:712][ 17]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:730][ 18]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:746][ 19]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:762][ 20]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:779][ 21]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:796][ 22]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:813][ 23]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:829][ 24]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:846][ 25]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:863][ 26]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:879][ 27]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:895][ 28]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:914][ 29]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:930][ 30]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:946][ 31]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:962][ 32]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:980][ 33]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.47:996][ 34]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.48:012][ 35]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.48:029][ 36]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.48:046][ 37]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.48:063][ 38]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.48:079][ 39]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.48:095][ 40]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.48:113][ 41]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.00.48:129][ 42]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:145][ 43]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:163][ 44]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:180][ 45]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:196][ 46]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:212][ 47]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:232][ 48]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:246][ 49]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:263][ 50]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:280][ 51]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:296][ 52]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:313][ 53]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:329][ 54]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:346][ 55]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:363][ 56]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:379][ 57]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:396][ 58]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:413][ 59]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:429][ 60]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:445][ 61]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:463][ 62]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:479][ 63]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:496][ 64]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:512][ 65]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:530][ 66]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:546][ 67]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:563][ 68]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:579][ 69]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:596][ 70]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:612][ 71]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:629][ 72]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:645][ 73]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:663][ 74]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:679][ 75]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:695][ 76]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:712][ 77]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:729][ 78]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:745][ 79]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.00.48:798][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.00.48:798][ 80]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.00.48:798][ 80]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-09.00.48:798][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.00.48:801][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-09.00.48:805][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.00.48:817][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.00.48:817][ 80]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.02-09.00.48:817][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.02-09.00.48:818][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.02-09.00.48:826][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.02.02-09.00.48:863][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.02.02-09.02.13:572][838]LogEditorTransaction: Undo 노드 추가
+[2024.02.02-09.04.39:141][789]BlueprintLog: New page: WBP_GameStartWidget 컴파일
+[2024.02.02-09.04.39:167][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.02.02-09.04.40:587][871]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-09.04.40:593][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-09.04.40:593][871]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 3:04:40)
+[2024.02.02-09.04.40:593][871]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.04.40:598][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004723s)
+[2024.02.02-09.04.40:598][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004754s)
+[2024.02.02-09.04.40:613][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.02.02-09.04.40:615][871]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-09.04.40:615][871]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-09.04.40:615][871]LogAIModule: Creating AISystem for world Main
+[2024.02.02-09.04.40:615][871]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2024.02.02-09.04.40:615][871]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.02.02-09.04.40:615][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-09.04.40:615][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-09.04.40:615][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-09.04.40:615][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-09.04.40:615][871]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-09.04.40:615][871]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-09.04.40:615][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-09.04.40:615][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-09.04.40:617][871]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-09.04.40:617][871]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-09.04.40:617][871]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-09.04.40:618][871]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-09.04.40:653][871]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-09.04.40:654][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-09.04.40:654][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-09.04.40:654][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-09.04.40:654][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.02.02-09.04.40:654][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.02.02-09.04.40:657][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.02.02-09.04.40:657][871]LogInit: FAudioDevice initialized with ID 9.
+[2024.02.02-09.04.40:657][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.02.02-09.04.40:657][871]LogAudio: Display: Audio Device (ID: 9) registered with world 'Main'.
+[2024.02.02-09.04.40:657][871]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.02-09.04.40:659][871]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-09.04.40:661][871]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-18.04.40
+[2024.02.02-09.04.40:661][871]LogWorld: Bringing up level for play took: 0.001428
+[2024.02.02-09.04.40:663][871]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.02.02-09.04.40:665][871]PIE: 서버가 로그인했습니다.
+[2024.02.02-09.04.40:665][871]PIE: 에디터에서 플레이 총 시작 시간 0.072초입니다.
+[2024.02.02-09.04.40:671][871]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:688][872]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:704][873]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:728][874]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:737][875]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:754][876]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:770][877]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:787][878]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:804][879]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:820][880]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:837][881]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:854][882]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:870][883]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:887][884]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:904][885]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:921][886]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:937][887]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:954][888]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:970][889]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.40:988][890]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:004][891]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:028][892]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:037][893]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:054][894]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:071][895]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:087][896]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:104][897]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:121][898]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:138][899]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:153][900]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:170][901]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:187][902]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:204][903]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:221][904]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:237][905]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:254][906]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:271][907]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:290][908]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:304][909]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:321][910]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:338][911]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:354][912]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:370][913]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:387][914]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:403][915]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:420][916]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:437][917]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:453][918]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:470][919]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:487][920]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:504][921]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:521][922]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:538][923]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:555][924]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:570][925]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.04.41:587][926]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:604][927]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:620][928]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:637][929]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:654][930]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:670][931]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:687][932]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:704][933]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:720][934]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:737][935]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:753][936]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:770][937]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:787][938]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:804][939]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:820][940]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:837][941]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:853][942]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:871][943]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:887][944]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:904][945]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:920][946]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:937][947]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:954][948]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:970][949]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.41:987][950]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:004][951]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:020][952]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:037][953]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:054][954]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:070][955]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:087][956]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:104][957]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:121][958]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:137][959]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:154][960]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:171][961]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:187][962]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:204][963]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:220][964]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:237][965]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:254][966]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:271][967]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:287][968]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:304][969]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:320][970]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:337][971]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:354][972]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:371][973]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:387][974]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:404][975]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:421][976]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:437][977]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:454][978]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:471][979]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:487][980]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:503][981]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:520][982]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:537][983]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:554][984]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:571][985]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.04.42:587][986]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:604][987]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:620][988]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:637][989]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:654][990]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:671][991]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:687][992]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:704][993]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:720][994]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:737][995]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:754][996]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:770][997]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:787][998]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:803][999]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:820][  0]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:837][  1]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:854][  2]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:871][  3]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:887][  4]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:904][  5]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:921][  6]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:937][  7]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:953][  8]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:970][  9]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.42:987][ 10]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:003][ 11]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:020][ 12]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:037][ 13]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:054][ 14]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:070][ 15]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:087][ 16]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:104][ 17]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:120][ 18]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:137][ 19]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:154][ 20]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:170][ 21]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:187][ 22]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:204][ 23]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:220][ 24]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:237][ 25]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:253][ 26]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:271][ 27]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:287][ 28]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:304][ 29]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:320][ 30]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:337][ 31]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:354][ 32]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:370][ 33]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:387][ 34]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:404][ 35]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:420][ 36]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:437][ 37]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:453][ 38]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:470][ 39]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:487][ 40]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:503][ 41]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:520][ 42]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:537][ 43]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:554][ 44]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:571][ 45]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 1
+[2024.02.02-09.04.43:587][ 46]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:603][ 47]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:620][ 48]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:637][ 49]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:654][ 50]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:670][ 51]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:687][ 52]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:703][ 53]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:720][ 54]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:737][ 55]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:753][ 56]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:770][ 57]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:787][ 58]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:803][ 59]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:820][ 60]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:837][ 61]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:854][ 62]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:871][ 63]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:887][ 64]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:904][ 65]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:920][ 66]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:937][ 67]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:953][ 68]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:970][ 69]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.43:987][ 70]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:004][ 71]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:020][ 72]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:037][ 73]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:054][ 74]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:070][ 75]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:087][ 76]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:104][ 77]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:120][ 78]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:137][ 79]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:153][ 80]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:170][ 81]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:187][ 82]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:204][ 83]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:220][ 84]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:237][ 85]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:254][ 86]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:271][ 87]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:287][ 88]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:305][ 89]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:320][ 90]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:337][ 91]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:354][ 92]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:371][ 93]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:387][ 94]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:403][ 95]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:420][ 96]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:437][ 97]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:454][ 98]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:470][ 99]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:487][100]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:504][101]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:520][102]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:537][103]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:553][104]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.44:570][105]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 0
+[2024.02.02-09.04.45:368][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.04.45:368][151]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.04.45:368][151]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-09.04.45:368][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.04.45:371][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-09.04.45:375][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.04.45:390][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.02-09.04.45:390][151]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.02-09.04.45:390][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.02-09.04.45:391][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.02-09.04.45:395][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.04.45:399][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.02-09.04.45:435][153]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.02.02-09.05.10:547][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.02.02-09.05.10:551][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-09.05.10:678][321]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_GameStartWidget
+[2024.02.02-09.05.10:678][321]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/WBP_GameStartWidgetB70C5AFF45A598647ACCE382A1C8A39E.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Widgets/WBP_GameStartWidget.uasset'
+[2024.02.02-09.05.10:686][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 693 ms)
+[2024.02.02-09.05.10:687][321]AssetCheck: New page: 에셋 저장:  WBP_GameStartWidget
+[2024.02.02-09.05.10:687][321]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WBP_GameStartWidget.WBP_GameStartWidget 유효성 검사 중
+[2024.02.02-09.05.13:924][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.02.02-09.05.15:935][618]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-09.05.15:940][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-09.05.15:940][618]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 3:05:15)
+[2024.02.02-09.05.15:940][618]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.05.15:944][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004067s)
+[2024.02.02-09.05.15:945][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004097s)
+[2024.02.02-09.05.15:960][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.02.02-09.05.15:960][618]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-09.05.15:961][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-09.05.15:961][618]LogAIModule: Creating AISystem for world Main
+[2024.02.02-09.05.15:961][618]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2024.02.02-09.05.15:961][618]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.02.02-09.05.15:961][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-09.05.15:961][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-09.05.15:961][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-09.05.15:961][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-09.05.15:961][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-09.05.15:961][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-09.05.15:961][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-09.05.15:961][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-09.05.15:962][618]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-09.05.15:962][618]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-09.05.15:962][618]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-09.05.15:964][618]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-09.05.15:999][618]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-09.05.16:000][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-09.05.16:000][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-09.05.16:000][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-09.05.16:001][618]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.02.02-09.05.16:001][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.02.02-09.05.16:002][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.02.02-09.05.16:002][618]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.02.02-09.05.16:002][618]LogInit: FAudioDevice initialized with ID 10.
+[2024.02.02-09.05.16:002][618]LogAudio: Display: Audio Device (ID: 10) registered with world 'Main'.
+[2024.02.02-09.05.16:002][618]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.02.02-09.05.16:004][618]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-09.05.16:005][618]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-18.05.16
+[2024.02.02-09.05.16:005][618]LogWorld: Bringing up level for play took: 0.001371
+[2024.02.02-09.05.16:008][618]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.02.02-09.05.16:010][618]PIE: 서버가 로그인했습니다.
+[2024.02.02-09.05.16:011][618]PIE: 에디터에서 플레이 총 시작 시간 0.071초입니다.
+[2024.02.02-09.05.16:017][618]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:048][619]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:053][620]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:070][621]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:087][622]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:103][623]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:120][624]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:135][625]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:153][626]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:169][627]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:188][628]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:203][629]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:220][630]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:237][631]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:253][632]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:270][633]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:288][634]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:305][635]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:320][636]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:337][637]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:354][638]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:370][639]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:387][640]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:403][641]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:420][642]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:438][643]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:454][644]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:471][645]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:487][646]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:504][647]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:520][648]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:537][649]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:554][650]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:570][651]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:587][652]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:604][653]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:619][654]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:636][655]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:665][656]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:671][657]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:687][658]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:704][659]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:720][660]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:736][661]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:753][662]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:770][663]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:787][664]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:804][665]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:821][666]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:837][667]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:855][668]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:871][669]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:887][670]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:904][671]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:921][672]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 3
+[2024.02.02-09.05.16:937][673]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.16:953][674]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.16:971][675]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.16:987][676]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:004][677]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:021][678]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:037][679]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:054][680]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:071][681]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:088][682]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:104][683]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:121][684]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:137][685]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:155][686]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:170][687]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:187][688]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:204][689]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:221][690]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:236][691]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:253][692]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:270][693]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:285][694]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:303][695]LogBlueprintUserMessages: [WBP_GameStartWidget_C_0] 2
+[2024.02.02-09.05.17:347][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.05.17:347][696]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.05.17:348][696]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-09.05.17:348][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.05.17:350][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-09.05.17:355][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.05.17:366][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.02-09.05.17:366][696]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.02.02-09.05.17:366][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.02-09.05.17:367][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.02-09.05.17:373][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.05.17:375][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.02-09.05.17:428][699]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.02.02-09.10.12:306][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.02-09.10.12:312][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-09.10.12:415][394]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_GameStartWidget
+[2024.02.02-09.10.12:416][394]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/WBP_GameStartWidget892CAFEB44BA8B914AC679B4697B699C.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Widgets/WBP_GameStartWidget.uasset'
+[2024.02.02-09.10.12:423][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 804 ms)
+[2024.02.02-09.10.12:424][394]AssetCheck: New page: 에셋 저장:  WBP_GameStartWidget
+[2024.02.02-09.10.12:424][394]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WBP_GameStartWidget.WBP_GameStartWidget 유효성 검사 중
+[2024.02.02-09.10.13:387][452]BlueprintLog: New page: WBP_GameStartWidget 컴파일
+[2024.02.02-09.10.13:414][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.02.02-09.10.17:869][714]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-09.10.17:874][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-09.10.17:874][714]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 3:10:17)
+[2024.02.02-09.10.17:874][714]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.10.17:879][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004263s)
+[2024.02.02-09.10.17:879][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004294s)
+[2024.02.02-09.10.17:891][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.02.02-09.10.17:893][714]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-09.10.17:893][714]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-09.10.17:893][714]LogAIModule: Creating AISystem for world Main
+[2024.02.02-09.10.17:893][714]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2024.02.02-09.10.17:893][714]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.02.02-09.10.17:893][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-09.10.17:893][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-09.10.17:894][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-09.10.17:894][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-09.10.17:894][714]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-09.10.17:894][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-09.10.17:894][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-09.10.17:894][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-09.10.17:894][714]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-09.10.17:894][714]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-09.10.17:894][714]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-09.10.17:896][714]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-09.10.17:932][714]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-09.10.17:932][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-09.10.17:932][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-09.10.17:932][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-09.10.17:933][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.02.02-09.10.17:933][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.02.02-09.10.17:934][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.02.02-09.10.17:934][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.02.02-09.10.17:934][714]LogInit: FAudioDevice initialized with ID 11.
+[2024.02.02-09.10.17:934][714]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main'.
+[2024.02.02-09.10.17:934][714]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.02-09.10.17:937][714]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-09.10.17:939][714]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-18.10.17
+[2024.02.02-09.10.17:939][714]LogWorld: Bringing up level for play took: 0.001424
+[2024.02.02-09.10.17:941][714]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.02.02-09.10.17:943][714]PIE: 서버가 로그인했습니다.
+[2024.02.02-09.10.17:944][714]PIE: 에디터에서 플레이 총 시작 시간 0.069초입니다.
+[2024.02.02-09.10.25:438][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.10.25:438][161]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.10.25:438][161]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-09.10.25:438][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.10.25:441][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-09.10.25:445][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.10.25:456][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.10.25:456][161]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.02-09.10.25:456][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.02-09.10.25:458][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.02-09.10.25:464][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.02-09.10.25:501][163]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.02.02-09.10.26:052][196]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-09.10.26:057][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-09.10.26:057][196]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 3:10:26)
+[2024.02.02-09.10.26:057][196]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.10.26:061][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004871s)
+[2024.02.02-09.10.26:061][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004905s)
+[2024.02.02-09.10.26:077][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.02-09.10.26:078][196]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-09.10.26:078][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-09.10.26:079][196]LogAIModule: Creating AISystem for world Main
+[2024.02.02-09.10.26:079][196]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2024.02.02-09.10.26:079][196]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.02.02-09.10.26:079][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-09.10.26:079][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-09.10.26:079][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-09.10.26:079][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-09.10.26:079][196]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-09.10.26:079][196]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-09.10.26:079][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-09.10.26:079][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-09.10.26:080][196]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-09.10.26:080][196]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-09.10.26:080][196]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-09.10.26:082][196]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-09.10.26:116][196]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-09.10.26:116][196]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-09.10.26:116][196]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-09.10.26:116][196]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-09.10.26:117][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.02.02-09.10.26:117][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.02.02-09.10.26:119][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.02.02-09.10.26:119][196]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.02.02-09.10.26:119][196]LogInit: FAudioDevice initialized with ID 12.
+[2024.02.02-09.10.26:119][196]LogAudio: Display: Audio Device (ID: 12) registered with world 'Main'.
+[2024.02.02-09.10.26:119][196]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.02-09.10.26:122][196]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-09.10.26:123][196]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-18.10.26
+[2024.02.02-09.10.26:123][196]LogWorld: Bringing up level for play took: 0.001370
+[2024.02.02-09.10.26:125][196]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.02.02-09.10.26:126][196]PIE: 서버가 로그인했습니다.
+[2024.02.02-09.10.26:127][196]PIE: 에디터에서 플레이 총 시작 시간 0.07초입니다.
+[2024.02.02-09.10.28:317][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.10.28:317][325]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.10.28:317][325]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-09.10.28:317][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.10.28:320][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-09.10.28:324][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.10.28:335][325]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.02-09.10.28:335][325]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.02-09.10.28:335][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.02-09.10.28:337][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.02-09.10.28:342][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.10.28:344][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.02.02-09.10.28:381][327]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.02.02-09.10.31:950][526]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-09.10.32:022][527]LogShaderCompilers: Display: ================================================
+[2024.02.02-09.10.32:022][527]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.02-09.10.32:023][527]LogShaderCompilers: Display: Total job queries 41, among them cache hits 6 (14.63%)
+[2024.02.02-09.10.32:023][527]LogShaderCompilers: Display: Tracking 35 distinct input hashes that result in 26 distinct outputs (74.29%)
+[2024.02.02-09.10.32:023][527]LogShaderCompilers: Display: RAM used: 66.04 KiB of 819.20 MiB budget. Usage: 0.01%
+[2024.02.02-09.10.32:023][527]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.02-09.10.32:023][527]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.02.02-09.10.32:023][527]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.02.02-09.10.32:023][527]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.02.02-09.10.32:023][527]LogShaderCompilers: Display: ================================================
+[2024.02.02-09.11.10:847][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.02.02-09.11.10:854][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-09.11.10:961][190]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_GameStartWidget
+[2024.02.02-09.11.10:962][190]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/WBP_GameStartWidget4A2F91724E0E19BE60A2C5A807F1CA20.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Widgets/WBP_GameStartWidget.uasset'
+[2024.02.02-09.11.10:968][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 919 ms)
+[2024.02.02-09.11.10:968][190]AssetCheck: New page: 에셋 저장:  WBP_GameStartWidget
+[2024.02.02-09.11.10:968][190]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WBP_GameStartWidget.WBP_GameStartWidget 유효성 검사 중
+[2024.02.02-09.11.11:609][229]BlueprintLog: New page: WBP_GameStartWidget 컴파일
+[2024.02.02-09.11.11:642][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.02-09.11.12:873][297]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-09.11.12:878][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-09.11.12:878][297]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 3:11:12)
+[2024.02.02-09.11.12:878][297]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.11.12:882][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004145s)
+[2024.02.02-09.11.12:882][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004177s)
+[2024.02.02-09.11.12:895][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.02-09.11.12:896][297]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-09.11.12:897][297]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-09.11.12:897][297]LogAIModule: Creating AISystem for world Main
+[2024.02.02-09.11.12:897][297]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2024.02.02-09.11.12:897][297]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.02.02-09.11.12:897][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-09.11.12:897][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-09.11.12:897][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-09.11.12:897][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-09.11.12:897][297]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-09.11.12:897][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-09.11.12:897][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-09.11.12:897][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-09.11.12:898][297]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-09.11.12:898][297]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-09.11.12:898][297]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-09.11.12:900][297]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-09.11.12:935][297]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-09.11.12:935][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-09.11.12:935][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-09.11.12:935][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-09.11.12:935][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.02.02-09.11.12:935][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.02.02-09.11.12:938][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.02.02-09.11.12:938][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.02.02-09.11.12:938][297]LogInit: FAudioDevice initialized with ID 13.
+[2024.02.02-09.11.12:938][297]LogAudio: Display: Audio Device (ID: 13) registered with world 'Main'.
+[2024.02.02-09.11.12:938][297]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.02-09.11.12:940][297]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-09.11.12:940][297]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-18.11.12
+[2024.02.02-09.11.12:941][297]LogWorld: Bringing up level for play took: 0.001419
+[2024.02.02-09.11.12:943][297]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.02.02-09.11.12:944][297]PIE: 서버가 로그인했습니다.
+[2024.02.02-09.11.12:946][297]PIE: 에디터에서 플레이 총 시작 시간 0.067초입니다.
+[2024.02.02-09.11.19:898][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.11.19:898][712]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.11.19:898][712]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-09.11.19:898][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.11.19:916][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-09.11.19:921][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.11.19:935][712]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.02-09.11.19:935][712]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.02-09.11.19:935][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.02-09.11.19:936][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.02-09.11.19:941][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.11.19:943][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.02.02-09.11.19:967][713]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.02.02-09.12.11:107][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.02.02-09.12.11:111][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-09.12.11:193][921]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_GameStartWidget
+[2024.02.02-09.12.11:194][921]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/WBP_GameStartWidget787D22B5491E90762BD89C87CC7DA812.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Widgets/WBP_GameStartWidget.uasset'
+[2024.02.02-09.12.11:199][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.00 sec)
+[2024.02.02-09.12.11:200][921]AssetCheck: New page: 에셋 저장:  WBP_GameStartWidget
+[2024.02.02-09.12.11:200][921]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WBP_GameStartWidget.WBP_GameStartWidget 유효성 검사 중
+[2024.02.02-09.12.12:642][  8]BlueprintLog: New page: WBP_GameStartWidget 컴파일
+[2024.02.02-09.12.12:665][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.02-09.12.13:954][ 72]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-09.12.13:959][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-09.12.13:959][ 72]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 3:12:13)
+[2024.02.02-09.12.13:960][ 72]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.12.13:964][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004169s)
+[2024.02.02-09.12.13:964][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004204s)
+[2024.02.02-09.12.13:979][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.02.02-09.12.13:980][ 72]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-09.12.13:981][ 72]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-09.12.13:981][ 72]LogAIModule: Creating AISystem for world Main
+[2024.02.02-09.12.13:981][ 72]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2024.02.02-09.12.13:981][ 72]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.02.02-09.12.13:981][ 72]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-09.12.13:981][ 72]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-09.12.13:981][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-09.12.13:981][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-09.12.13:981][ 72]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-09.12.13:981][ 72]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-09.12.13:981][ 72]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-09.12.13:981][ 72]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-09.12.13:982][ 72]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-09.12.13:982][ 72]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-09.12.13:982][ 72]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-09.12.13:984][ 72]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-09.12.14:019][ 72]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-09.12.14:019][ 72]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-09.12.14:019][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-09.12.14:019][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-09.12.14:020][ 72]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.02.02-09.12.14:020][ 72]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.02.02-09.12.14:022][ 72]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.02.02-09.12.14:022][ 72]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.02.02-09.12.14:022][ 72]LogInit: FAudioDevice initialized with ID 14.
+[2024.02.02-09.12.14:022][ 72]LogAudio: Display: Audio Device (ID: 14) registered with world 'Main'.
+[2024.02.02-09.12.14:022][ 72]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.02.02-09.12.14:024][ 72]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-09.12.14:025][ 72]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-18.12.14
+[2024.02.02-09.12.14:025][ 72]LogWorld: Bringing up level for play took: 0.001505
+[2024.02.02-09.12.14:027][ 72]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.02.02-09.12.14:029][ 72]PIE: 서버가 로그인했습니다.
+[2024.02.02-09.12.14:030][ 72]PIE: 에디터에서 플레이 총 시작 시간 0.07초입니다.
+[2024.02.02-09.12.18:887][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.12.18:887][361]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.12.18:887][361]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-09.12.18:887][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.12.18:889][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-09.12.18:894][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.12.18:905][361]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.02-09.12.18:905][361]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.02.02-09.12.18:905][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.02.02-09.12.18:907][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.02.02-09.12.18:911][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.12.18:914][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.02-09.12.18:950][363]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.02.02-09.12.55:726][172]LogSlate: Window '색 선택 툴' being destroyed
+[2024.02.02-09.12.57:447][275]BlueprintLog: New page: WBP_GameStartWidget 컴파일
+[2024.02.02-09.12.57:478][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.02.02-09.12.58:946][347]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-09.12.58:951][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-09.12.58:952][347]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 3:12:58)
+[2024.02.02-09.12.58:952][347]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.12.58:956][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004088s)
+[2024.02.02-09.12.58:956][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004117s)
+[2024.02.02-09.12.58:969][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.02.02-09.12.58:970][347]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-09.12.58:970][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-09.12.58:971][347]LogAIModule: Creating AISystem for world Main
+[2024.02.02-09.12.58:971][347]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2024.02.02-09.12.58:971][347]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.02.02-09.12.58:971][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-09.12.58:971][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-09.12.58:971][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-09.12.58:971][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-09.12.58:971][347]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-09.12.58:971][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-09.12.58:971][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-09.12.58:971][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-09.12.58:972][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-09.12.58:972][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-09.12.58:972][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-09.12.58:973][347]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-09.12.59:007][347]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-09.12.59:008][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-09.12.59:008][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-09.12.59:008][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-09.12.59:008][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.02.02-09.12.59:008][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.02.02-09.12.59:010][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.02.02-09.12.59:010][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.02.02-09.12.59:010][347]LogInit: FAudioDevice initialized with ID 15.
+[2024.02.02-09.12.59:010][347]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main'.
+[2024.02.02-09.12.59:010][347]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.02.02-09.12.59:012][347]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-09.12.59:014][347]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-18.12.59
+[2024.02.02-09.12.59:014][347]LogWorld: Bringing up level for play took: 0.001415
+[2024.02.02-09.12.59:016][347]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.02.02-09.12.59:017][347]PIE: 서버가 로그인했습니다.
+[2024.02.02-09.12.59:018][347]PIE: 에디터에서 플레이 총 시작 시간 0.067초입니다.
+[2024.02.02-09.13.01:298][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.13.01:298][481]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.13.01:298][481]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-09.13.01:298][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.13.01:300][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-09.13.01:305][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.13.01:317][481]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.02-09.13.01:317][481]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.02.02-09.13.01:317][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.02-09.13.01:318][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.02-09.13.01:322][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.13.01:325][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.02.02-09.13.01:362][483]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.02.02-09.13.15:178][303]LogSlate: Window '색 선택 툴' being destroyed
+[2024.02.02-09.13.53:103][719]LogSlate: Window '색 선택 툴' being destroyed
+[2024.02.02-09.13.55:548][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.02-09.13.55:553][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-09.13.55:631][865]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_GameStartWidget
+[2024.02.02-09.13.55:632][865]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/WBP_GameStartWidget090606B24ED34DEF0F20BDB637F71552.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Widgets/WBP_GameStartWidget.uasset'
+[2024.02.02-09.13.55:638][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.09 sec)
+[2024.02.02-09.13.55:639][865]AssetCheck: New page: 에셋 저장:  WBP_GameStartWidget
+[2024.02.02-09.13.55:639][865]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WBP_GameStartWidget.WBP_GameStartWidget 유효성 검사 중
+[2024.02.02-09.13.56:147][896]BlueprintLog: New page: WBP_GameStartWidget 컴파일
+[2024.02.02-09.13.56:170][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.02.02-09.15.10:264][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.02-09.15.10:265][216]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.015
+[2024.02.02-09.15.10:265][216]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/WBP_GameStartWidget] ([2] browsable assets)...
+[2024.02.02-09.15.10:269][216]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/WBP_GameStartWidget.WBP_GameStartWidget]
+[2024.02.02-09.15.10:269][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WBP_GameStartWidget]
+[2024.02.02-09.15.10:275][216]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Widgets/WBP_GameStartWidget_Auto3
+[2024.02.02-09.15.10:275][216]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/WBP_GameStartWidget_Auto387997F36414D140FF97BA3A6728F36B2.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Autosaves/Game/Blueprints/Widgets/WBP_GameStartWidget_Auto3.uasset'
+[2024.02.02-09.15.10:275][216]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.02.02-09.15.21:837][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.02.02-09.15.21:841][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-09.15.21:939][626]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_GameStartWidget
+[2024.02.02-09.15.21:940][626]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/WBP_GameStartWidget15A0E031493C59214A97BE860168FF77.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Widgets/WBP_GameStartWidget.uasset'
+[2024.02.02-09.15.21:946][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.19 sec)
+[2024.02.02-09.15.21:947][626]AssetCheck: New page: 에셋 저장:  WBP_GameStartWidget
+[2024.02.02-09.15.21:947][626]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WBP_GameStartWidget.WBP_GameStartWidget 유효성 검사 중
+[2024.02.02-09.15.23:469][718]BlueprintLog: New page: WBP_GameStartWidget 컴파일
+[2024.02.02-09.15.23:492][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.02-09.17.24:121][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.02.02-09.17.27:626][257]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-09.17.27:652][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-09.17.27:652][257]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 3:17:27)
+[2024.02.02-09.17.27:652][257]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.17.27:667][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015218s)
+[2024.02.02-09.17.27:667][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.015352s)
+[2024.02.02-09.17.27:687][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.02-09.17.27:689][257]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-09.17.27:689][257]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-09.17.27:689][257]LogAIModule: Creating AISystem for world Main
+[2024.02.02-09.17.27:689][257]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2024.02.02-09.17.27:689][257]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.02.02-09.17.27:689][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-09.17.27:689][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-09.17.27:689][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-09.17.27:689][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-09.17.27:689][257]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-09.17.27:689][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-09.17.27:689][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-09.17.27:689][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-09.17.27:690][257]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-09.17.27:690][257]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-09.17.27:690][257]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-09.17.27:693][257]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-09.17.27:729][257]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-09.17.27:729][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-09.17.27:729][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-09.17.27:729][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-09.17.27:731][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.02.02-09.17.27:731][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.02.02-09.17.27:732][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.02.02-09.17.27:732][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.02.02-09.17.27:732][257]LogInit: FAudioDevice initialized with ID 16.
+[2024.02.02-09.17.27:732][257]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main'.
+[2024.02.02-09.17.27:732][257]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.02.02-09.17.27:734][257]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-09.17.27:736][257]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-18.17.27
+[2024.02.02-09.17.27:736][257]LogWorld: Bringing up level for play took: 0.001469
+[2024.02.02-09.17.27:738][257]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.02.02-09.17.27:740][257]PIE: 서버가 로그인했습니다.
+[2024.02.02-09.17.27:741][257]PIE: 에디터에서 플레이 총 시작 시간 0.09초입니다.
+[2024.02.02-09.17.35:817][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.17.35:817][500]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-09.17.35:817][500]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-09.17.35:817][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.17.35:844][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-09.17.35:849][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-09.17.35:866][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-09.17.35:867][500]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.02.02-09.17.35:867][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.02-09.17.35:869][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.02-09.17.35:878][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.02-09.17.35:898][501]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.02.02-09.17.38:821][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
