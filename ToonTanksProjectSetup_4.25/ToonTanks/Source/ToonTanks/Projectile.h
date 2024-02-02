@@ -25,4 +25,7 @@ public:
 
 	UPROPERTY(VisibleAnywhere, Category = "Combat")
 	UStaticMeshComponent* ProjectileMesh;
+
+	UPROPERTY(VisibleAnywhere, Category = "Movement")
+	class UProjectileMovementComponent* MovementComp;
 };

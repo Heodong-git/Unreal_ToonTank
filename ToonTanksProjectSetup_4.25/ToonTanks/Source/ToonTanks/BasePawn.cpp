@@ -5,6 +5,7 @@
 #include "Components/CapsuleComponent.h"
 #include "Components/SceneComponent.h"
 #include "DrawDebugHelpers.h"
+#include "Projectile.h"
 
 // Sets default values
 ABasePawn::ABasePawn()
@@ -43,9 +44,12 @@ void ABasePawn::RotateTurret(FVector LookAtTarget, float DeltaTime)
 
 void ABasePawn::Fire()
 {
-	FVector Target = ProjectileSpawnPoint->GetComponentLocation();
-	
-	DrawDebugSphere(GetWorld(), Target, 12, 12, FColor::Red, false, -1);
+	// 발사체가 생성될 위치 
+	FVector Location = ProjectileSpawnPoint->GetComponentLocation();
+	FRotator Rotation = ProjectileSpawnPoint->GetComponentRotation();
+	// DrawDebugSphere(GetWorld(), Target, 12, 12, FColor::Red, false, -1);
+
+	GetWorld()->SpawnActor<AProjectile>(ProjectileClass,Location,Rotation);
 }
 
 
