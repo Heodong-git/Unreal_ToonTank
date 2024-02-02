@@ -17,6 +17,10 @@ class TOONTANKS_API AToonTanksGameMode : public AGameModeBase
 protected:
 	virtual void BeginPlay() override;
 
+	// 이렇게 선언하면 블루프린트에서 사용이 가능하고 실제 구현을 하지 않아도 된다. 
+	UFUNCTION(BlueprintImplementableEvent)
+	void StartGame();
+
 public:
 	void ActorDied(AActor* DeadActor);
 
