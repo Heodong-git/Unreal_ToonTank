@@ -17,6 +17,16 @@ ATank::ATank()
 	CameraComp->SetupAttachment(SpringArmComp);
 }
 
+void ATank::HandleDestruction()
+{
+	Super::HandleDestruction();
+	
+	SetActorHiddenInGame(true);
+
+	// ∆Ω ∫Ò»∞º∫ 
+	SetActorTickEnabled(false);
+}
+
 // Called when the game starts or when spawned
 void ATank::BeginPlay()
 {

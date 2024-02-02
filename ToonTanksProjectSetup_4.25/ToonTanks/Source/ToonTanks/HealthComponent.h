@@ -32,5 +32,6 @@ private:
 	UPROPERTY(EditAnywhere)
 	float MaxHealth = 100.0f;
 	float Health;
-		
+
+	class AToonTanksGameMode* ToonTanksGameMode;
 };
