@@ -1190,3 +1190,592 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.02.02-07.03.34:417][638]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.02.02-07.03.34:479][639]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.02.02-07.03.45:393][273]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2024.02.02-07.09.00:200][925]Running C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2024.02.02-07.09.00:318][925]Using bundled DotNet SDK version: 6.0.302
+[2024.02.02-07.09.00:318][925]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2024.02.02-07.09.00:721][925]Log file: C:\Users\zest2\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.02.02-07.09.01:123][925]
+[2024.02.02-07.09.01:123][925]Some Platforms were skipped due to invalid SDK setup: Android, Linux, LinuxArm64.
+[2024.02.02-07.09.01:123][925]See the log file for detailed information
+[2024.02.02-07.09.01:123][925]
+[2024.02.02-07.09.01:123][925]
+[2024.02.02-07.09.01:123][925]Generating VisualStudio2022 project files:
+[2024.02.02-07.09.01:224][925]Discovering modules, targets and source code for project...
+[2024.02.02-07.09.02:630][925]Binding IntelliSense data...
+[2024.02.02-07.09.19:653][925]Binding IntelliSense data... 75%
+[2024.02.02-07.09.19:661][925]Binding IntelliSense data... 100%
+[2024.02.02-07.09.19:661][925]Creating common properties file...
+[2024.02.02-07.09.19:661][925]Creating common properties file... 0%
+[2024.02.02-07.09.19:661][925]Writing project files...
+[2024.02.02-07.09.19:661][925]Forcing LEGACY XCODE because host OS is not Mac
+[2024.02.02-07.09.21:070][925]Writing project files... 100%
+[2024.02.02-07.09.21:070][925]
+[2024.02.02-07.09.21:070][925]Generating QueryTargets data for editor...
+[2024.02.02-07.09.21:381][925]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.02-07.09.21:780][925]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2024.02.02-07.09.40:915][983]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_0.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_0.exp 개체를 생성하고 있습니다.
+[2024.02.02-07.09.41:064][984]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.02.02-07.09.41:064][984]LogClass: Could not find existing class ToonTanksPlayerController in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.02.02-07.09.41:137][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.02.02-07.09.41:673][985]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new
+[2024.02.02-07.09.41:673][985]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.02-07.10.16:546][216]LogSlate: Window '블루프린트 클래스 추가' being destroyed
+[2024.02.02-07.10.21:509][467]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.02.02-07.10.24:026][571]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2024.02.02-07.10.24:037][571]LogContentBrowser: Creating deferred item: 새 폴더
+[2024.02.02-07.10.24:052][572]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2024.02.02-07.10.38:986][463]LogContentBrowser: Attempting asset rename: 새 폴더 -> PlayerController
+[2024.02.02-07.10.38:988][463]LogContentBrowser: End creating deferred item 새 폴더
+[2024.02.02-07.11.07:343][146]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController
+[2024.02.02-07.11.07:343][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-07.11.07:343][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-07.11.07:505][146]LogSlate: Window '블루프린트 클래스 추가' being destroyed
+[2024.02.02-07.11.07:576][146]LogViewport: Scene viewport resized to 841x573, mode Windowed.
+[2024.02.02-07.11.10:322][297]LogViewport: Scene viewport resized to 955x584, mode Windowed.
+[2024.02.02-07.11.11:590][373]LogSlate: Window 'BP_ToonTanksPlayerController' being destroyed
+[2024.02.02-07.11.23:341][877]LogSlate: Window '콘텐츠 브라우저' being destroyed
+[2024.02.02-07.11.23:345][877]LogSlate: Window '콘텐츠 브라우저' being destroyed
+[2024.02.02-07.11.48:856][336]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode
+[2024.02.02-07.11.48:856][336]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-07.11.48:856][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-07.11.50:328][411]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-07.11.50:328][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-07.11.50:354][411]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode
+[2024.02.02-07.11.50:354][411]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-07.11.50:354][411]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-07.12.00:537][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.02.02-07.12.00:546][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-07.12.00:657][  1]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.008974 seconds
+[2024.02.02-07.12.00:667][  1]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_ToonTanksGameMode
+[2024.02.02-07.12.00:668][  1]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_ToonTanksGameModeFFE515A34E6A7716DE08C995AE017A2D.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/GameMode/BP_ToonTanksGameMode.uasset'
+[2024.02.02-07.12.00:674][  1]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController_C' for saving '/Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController_C'
+[2024.02.02-07.12.00:674][  1]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController_C' for saving '/Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController_C'
+[2024.02.02-07.12.00:674][  1]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayerController/BP_ToonTanksPlayerController
+[2024.02.02-07.12.00:674][  1]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_ToonTanksPlayerController8571C23748486229FB6D31AB83D3A226.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/PlayerController/BP_ToonTanksPlayerController.uasset'
+[2024.02.02-07.12.00:688][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms
+[2024.02.02-07.12.00:690][  1]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.02.02-07.12.00:691][  1]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode 유효성 검사 중
+[2024.02.02-07.12.00:691][  1]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController 유효성 검사 중
+[2024.02.02-07.12.32:030][302]BlueprintLog: New page: BP_ToonTanksGameMode 컴파일
+[2024.02.02-07.12.32:084][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.02.02-07.27.57:412][415]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.02-07.28.09:185][571]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_1.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_1.exp 개체를 생성하고 있습니다.
+[2024.02.02-07.28.09:524][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.02.02-07.28.09:932][573]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2024.02.02-07.28.09:932][573]LogLiveCoding: Display: Live coding succeeded
+[2024.02.02-07.37.06:279][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-07.37.06:347][356]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController_C' for saving '/Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController_C'
+[2024.02.02-07.37.06:347][356]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController_C' for saving '/Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController_C'
+[2024.02.02-07.37.06:348][356]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayerController/BP_ToonTanksPlayerController
+[2024.02.02-07.37.06:349][356]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_ToonTanksPlayerController129851D840EBE85B645C0E86F0A1CA8A.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/PlayerController/BP_ToonTanksPlayerController.uasset'
+[2024.02.02-07.37.06:356][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 218 ms)
+[2024.02.02-07.37.06:357][356]AssetCheck: New page: 에셋 저장:  BP_ToonTanksPlayerController
+[2024.02.02-07.37.06:357][356]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController 유효성 검사 중
+[2024.02.02-07.37.07:262][411]BlueprintLog: New page: BP_ToonTanksPlayerController 컴파일
+[2024.02.02-07.37.07:342][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.02.02-07.37.09:256][524]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.02-07.37.15:561][604]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_2.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_2.exp 개체를 생성하고 있습니다.
+[2024.02.02-07.37.15:763][605]LogClass: UClass ToonTanksGameMode Reload.
+[2024.02.02-07.37.15:764][605]LogClass: Could not find existing class ToonTanksGameMode in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.02.02-07.37.15:774][605]Re-instancing ToonTanksGameMode after reload.
+[2024.02.02-07.37.15:915][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.02.02-07.37.16:363][606]Display: Reload/Re-instancing Complete: 1 class changed
+[2024.02.02-07.37.16:363][606]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.02-07.37.20:626][665]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-07.37.20:632][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-07.37.20:632][665]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 1:37:20)
+[2024.02.02-07.37.20:672][665]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-07.37.20:677][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005061s)
+[2024.02.02-07.37.20:677][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005102s)
+[2024.02.02-07.37.20:733][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.02.02-07.37.20:735][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-07.37.20:735][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-07.37.20:736][665]LogAIModule: Creating AISystem for world Main
+[2024.02.02-07.37.20:736][665]LogPlayLevel: PIE: World Init took: (0.001350s)
+[2024.02.02-07.37.20:736][665]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.02-07.37.20:736][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-07.37.20:736][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-07.37.20:736][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-07.37.20:736][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-07.37.20:736][665]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-07.37.20:736][665]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-07.37.20:736][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-07.37.20:736][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-07.37.20:737][665]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-07.37.20:737][665]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-07.37.20:737][665]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-07.37.20:739][665]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-07.37.20:776][665]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-07.37.20:776][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-07.37.20:776][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-07.37.20:776][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-07.37.20:777][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.02.02-07.37.20:777][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.02.02-07.37.20:779][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.02.02-07.37.20:779][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.02.02-07.37.20:779][665]LogInit: FAudioDevice initialized with ID 3.
+[2024.02.02-07.37.20:779][665]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2024.02.02-07.37.20:779][665]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.02-07.37.20:785][665]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-07.37.20:787][665]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-16.37.20
+[2024.02.02-07.37.20:787][665]LogWorld: Bringing up level for play took: 0.001816
+[2024.02.02-07.37.20:790][665]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.02.02-07.37.20:791][665]PIE: 서버가 로그인했습니다.
+[2024.02.02-07.37.20:792][665]PIE: 에디터에서 플레이 총 시작 시간 0.161초입니다.
+[2024.02.02-07.37.27:733][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-07.37.27:733][ 79]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-07.37.27:734][ 79]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-07.37.27:735][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-07.37.27:743][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-07.37.27:747][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-07.37.27:756][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-07.37.27:756][ 79]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.02-07.37.27:757][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.02-07.37.27:758][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.02-07.37.27:785][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.02.02-07.37.27:809][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.02.02-07.37.46:370][851]LogSlate: External Image Picker: DecompressImage failed
+[2024.02.02-07.37.48:909][990]LogSlate: Window '프로젝트 세팅' being destroyed
+[2024.02.02-07.37.48:913][990]LogSlate: Window '프로젝트 세팅' being destroyed
+[2024.02.02-07.38.00:828][685]LogSlate: Took 0.000557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.02-07.38.00:849][686]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-07.38.00:944][687]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-07.38.03:395][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-07.38.31:143][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-07.38.31:207][996]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController_C' for saving '/Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController_C'
+[2024.02.02-07.38.31:207][996]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController_C' for saving '/Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController_C'
+[2024.02.02-07.38.31:208][996]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayerController/BP_ToonTanksPlayerController
+[2024.02.02-07.38.31:208][996]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/BP_ToonTanksPlayerController0B5891F74ED224E0C728B1A0646B2BF9.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/PlayerController/BP_ToonTanksPlayerController.uasset'
+[2024.02.02-07.38.31:215][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 290 ms)
+[2024.02.02-07.38.31:216][996]AssetCheck: New page: 에셋 저장:  BP_ToonTanksPlayerController
+[2024.02.02-07.38.31:216][996]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/PlayerController/BP_ToonTanksPlayerController.BP_ToonTanksPlayerController 유효성 검사 중
+[2024.02.02-07.38.32:271][ 60]BlueprintLog: New page: BP_ToonTanksPlayerController 컴파일
+[2024.02.02-07.38.32:310][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.02-07.38.33:429][125]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-07.38.33:434][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-07.38.33:434][125]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 1:38:33)
+[2024.02.02-07.38.33:462][125]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-07.38.33:466][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004065s)
+[2024.02.02-07.38.33:466][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004100s)
+[2024.02.02-07.38.33:483][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.02.02-07.38.33:485][125]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-07.38.33:485][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-07.38.33:486][125]LogAIModule: Creating AISystem for world Main
+[2024.02.02-07.38.33:486][125]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2024.02.02-07.38.33:486][125]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.02-07.38.33:486][125]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-07.38.33:486][125]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-07.38.33:486][125]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-07.38.33:486][125]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-07.38.33:486][125]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-07.38.33:486][125]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-07.38.33:486][125]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-07.38.33:486][125]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-07.38.33:486][125]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-07.38.33:486][125]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-07.38.33:486][125]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-07.38.33:489][125]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-07.38.33:524][125]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-07.38.33:525][125]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-07.38.33:525][125]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-07.38.33:525][125]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-07.38.33:526][125]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.02.02-07.38.33:526][125]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.02.02-07.38.33:527][125]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.02.02-07.38.33:527][125]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.02.02-07.38.33:527][125]LogInit: FAudioDevice initialized with ID 4.
+[2024.02.02-07.38.33:527][125]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2024.02.02-07.38.33:528][125]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.02-07.38.33:530][125]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-07.38.33:531][125]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-16.38.33
+[2024.02.02-07.38.33:532][125]LogWorld: Bringing up level for play took: 0.001468
+[2024.02.02-07.38.33:533][125]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.02.02-07.38.33:535][125]PIE: 서버가 로그인했습니다.
+[2024.02.02-07.38.33:535][125]PIE: 에디터에서 플레이 총 시작 시간 0.102초입니다.
+[2024.02.02-07.38.42:274][649]LogTemp: Display: Damage Test : 50.000000
+[2024.02.02-07.38.42:374][655]LogTemp: Display: Damage Test : 0.000000
+[2024.02.02-07.38.43:791][740]LogTemp: Display: Damage Test : 50.000000
+[2024.02.02-07.38.44:752][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-07.38.44:752][795]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-07.38.44:752][795]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-07.38.44:752][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-07.38.44:771][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-07.38.44:775][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-07.38.44:791][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.02-07.38.44:791][795]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.02-07.38.44:791][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.02-07.38.44:793][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.02-07.38.44:798][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-07.38.44:800][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.02.02-07.38.44:867][796]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.02.02-07.44.43:691][331]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.02-07.44.50:864][759]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_3.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_3.exp 개체를 생성하고 있습니다.
+[2024.02.02-07.44.51:208][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.02.02-07.44.51:618][764]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2024.02.02-07.44.51:618][764]LogLiveCoding: Display: Live coding succeeded
+[2024.02.02-07.44.52:665][798]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-07.44.52:672][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-07.44.52:672][798]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 1:44:52)
+[2024.02.02-07.44.52:672][798]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-07.44.52:676][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004445s)
+[2024.02.02-07.44.52:676][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004481s)
+[2024.02.02-07.44.52:742][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.02.02-07.44.52:745][798]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-07.44.52:745][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-07.44.52:745][798]LogAIModule: Creating AISystem for world Main
+[2024.02.02-07.44.52:746][798]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2024.02.02-07.44.52:746][798]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.02.02-07.44.52:746][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-07.44.52:746][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-07.44.52:746][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-07.44.52:746][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-07.44.52:746][798]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-07.44.52:746][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-07.44.52:746][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-07.44.52:746][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-07.44.52:746][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-07.44.52:746][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-07.44.52:746][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-07.44.52:748][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-07.44.52:787][798]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-07.44.52:787][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-07.44.52:787][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-07.44.52:787][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-07.44.52:787][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.02.02-07.44.52:787][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.02.02-07.44.52:789][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.02.02-07.44.52:789][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.02.02-07.44.52:789][798]LogInit: FAudioDevice initialized with ID 5.
+[2024.02.02-07.44.52:789][798]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2024.02.02-07.44.52:789][798]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.02-07.44.52:792][798]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-07.44.52:793][798]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-16.44.52
+[2024.02.02-07.44.52:794][798]LogWorld: Bringing up level for play took: 0.001521
+[2024.02.02-07.44.52:796][798]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.02.02-07.44.52:797][798]PIE: 서버가 로그인했습니다.
+[2024.02.02-07.44.52:798][798]PIE: 에디터에서 플레이 총 시작 시간 0.127초입니다.
+[2024.02.02-07.44.55:522][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-07.44.55:522][958]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-07.44.55:522][958]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-07.44.55:522][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-07.44.55:525][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-07.44.55:529][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-07.44.55:544][958]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.02-07.44.55:544][958]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.02-07.44.55:544][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.02-07.44.55:546][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.02-07.44.55:551][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-07.44.55:569][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.02.02-07.44.55:642][959]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.02.02-07.45.04:679][495]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.02-07.45.06:912][624]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.02-07.45.08:454][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-07.45.08:545][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.02-07.45.08:577][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.02.02-07.45.08:599][712]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.02.02-07.45.08:599][712]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Main415E7C5D449BD1627F618DA2DC2CEDB9.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap'
+[2024.02.02-07.45.08:605][712]LogFileHelpers: Saving map 'Main' took 0.061
+[2024.02.02-07.45.08:615][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 452 ms)
+[2024.02.02-07.45.08:617][712]AssetCheck: New page: 에셋 저장:  Main
+[2024.02.02-07.45.08:617][712]LogContentValidation: Display: /Script/Engine.World /Game/Maps/Main.Main 유효성 검사 중
+[2024.02.02-07.45.09:107][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.02-07.45.09:503][763]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-07.45.09:508][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-07.45.09:508][763]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 1:45:09)
+[2024.02.02-07.45.09:508][763]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-07.45.09:513][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004647s)
+[2024.02.02-07.45.09:513][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004680s)
+[2024.02.02-07.45.09:529][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.02.02-07.45.09:530][763]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-07.45.09:530][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-07.45.09:531][763]LogAIModule: Creating AISystem for world Main
+[2024.02.02-07.45.09:531][763]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2024.02.02-07.45.09:531][763]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.02.02-07.45.09:531][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-07.45.09:531][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-07.45.09:531][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-07.45.09:531][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-07.45.09:531][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-07.45.09:531][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-07.45.09:531][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-07.45.09:531][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-07.45.09:532][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-07.45.09:532][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-07.45.09:532][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-07.45.09:533][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-07.45.09:592][763]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-07.45.09:593][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-07.45.09:593][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-07.45.09:593][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-07.45.09:593][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.02.02-07.45.09:593][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.02.02-07.45.09:596][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.02.02-07.45.09:596][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.02.02-07.45.09:596][763]LogInit: FAudioDevice initialized with ID 6.
+[2024.02.02-07.45.09:596][763]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2024.02.02-07.45.09:596][763]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.02-07.45.09:598][763]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-07.45.09:600][763]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-16.45.09
+[2024.02.02-07.45.09:601][763]LogWorld: Bringing up level for play took: 0.001644
+[2024.02.02-07.45.09:603][763]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.02.02-07.45.09:604][763]PIE: 서버가 로그인했습니다.
+[2024.02.02-07.45.09:605][763]PIE: 에디터에서 플레이 총 시작 시간 0.097초입니다.
+[2024.02.02-07.45.11:752][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-07.45.11:752][889]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-07.45.11:752][889]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-07.45.11:752][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-07.45.11:755][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-07.45.11:759][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-07.45.11:773][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-07.45.11:773][889]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.02-07.45.11:773][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.02-07.45.11:775][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.02-07.45.11:781][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.02.02-07.45.11:831][890]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.02.02-07.45.14:569][ 53]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.02-07.45.15:987][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-07.45.16:035][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.02-07.45.16:065][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.02.02-07.45.16:083][137]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.02.02-07.45.16:084][137]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/MainA6183555439DA812672F6F8B38A9B7C3.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap'
+[2024.02.02-07.45.16:090][137]LogFileHelpers: Saving map 'Main' took 0.056
+[2024.02.02-07.45.16:096][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 560 ms)
+[2024.02.02-07.45.16:097][137]AssetCheck: New page: 에셋 저장:  Main
+[2024.02.02-07.45.16:098][137]LogContentValidation: Display: /Script/Engine.World /Game/Maps/Main.Main 유효성 검사 중
+[2024.02.02-07.45.16:290][149]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-07.45.16:297][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-07.45.16:297][149]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 1:45:16)
+[2024.02.02-07.45.16:322][149]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-07.45.16:326][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004249s)
+[2024.02.02-07.45.16:326][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004287s)
+[2024.02.02-07.45.16:342][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.02.02-07.45.16:343][149]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-07.45.16:343][149]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-07.45.16:344][149]LogAIModule: Creating AISystem for world Main
+[2024.02.02-07.45.16:344][149]LogPlayLevel: PIE: World Init took: (0.001230s)
+[2024.02.02-07.45.16:344][149]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.02-07.45.16:344][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-07.45.16:345][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-07.45.16:345][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-07.45.16:345][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-07.45.16:345][149]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-07.45.16:345][149]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-07.45.16:345][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-07.45.16:345][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-07.45.16:346][149]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-07.45.16:346][149]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-07.45.16:346][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-07.45.16:348][149]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-07.45.16:388][149]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-07.45.16:388][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-07.45.16:388][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-07.45.16:388][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-07.45.16:390][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.02.02-07.45.16:390][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.02.02-07.45.16:392][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.02.02-07.45.16:392][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.02.02-07.45.16:392][149]LogInit: FAudioDevice initialized with ID 7.
+[2024.02.02-07.45.16:392][149]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2024.02.02-07.45.16:392][149]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.02-07.45.16:394][149]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-07.45.16:396][149]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-16.45.16
+[2024.02.02-07.45.16:396][149]LogWorld: Bringing up level for play took: 0.001805
+[2024.02.02-07.45.16:398][149]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.02.02-07.45.16:400][149]PIE: 서버가 로그인했습니다.
+[2024.02.02-07.45.16:400][149]PIE: 에디터에서 플레이 총 시작 시간 0.104초입니다.
+[2024.02.02-07.45.17:891][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-07.45.17:891][236]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-07.45.17:891][236]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-07.45.17:891][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-07.45.17:895][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-07.45.17:899][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-07.45.17:912][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-07.45.17:912][236]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.02-07.45.17:912][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.02-07.45.17:914][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.02-07.45.17:920][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.02-07.45.17:995][238]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.02.02-07.45.20:984][417]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.02-07.45.21:778][464]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-07.45.21:785][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-07.45.21:785][464]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 1:45:21)
+[2024.02.02-07.45.21:785][464]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-07.45.21:790][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004637s)
+[2024.02.02-07.45.21:790][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004668s)
+[2024.02.02-07.45.21:806][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.02.02-07.45.21:807][464]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-07.45.21:807][464]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-07.45.21:807][464]LogAIModule: Creating AISystem for world Main
+[2024.02.02-07.45.21:808][464]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2024.02.02-07.45.21:808][464]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.02.02-07.45.21:808][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-07.45.21:808][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-07.45.21:808][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-07.45.21:808][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-07.45.21:808][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-07.45.21:808][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-07.45.21:808][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-07.45.21:808][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-07.45.21:809][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-07.45.21:809][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-07.45.21:809][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-07.45.21:811][464]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-07.45.21:847][464]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-07.45.21:848][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-07.45.21:848][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-07.45.21:848][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-07.45.21:848][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.02.02-07.45.21:849][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.02.02-07.45.21:851][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.02.02-07.45.21:851][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.02.02-07.45.21:851][464]LogInit: FAudioDevice initialized with ID 8.
+[2024.02.02-07.45.21:851][464]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main'.
+[2024.02.02-07.45.21:851][464]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.02-07.45.21:853][464]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-07.45.21:855][464]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-16.45.21
+[2024.02.02-07.45.21:855][464]LogWorld: Bringing up level for play took: 0.001549
+[2024.02.02-07.45.21:857][464]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.02.02-07.45.21:859][464]PIE: 서버가 로그인했습니다.
+[2024.02.02-07.45.21:859][464]PIE: 에디터에서 플레이 총 시작 시간 0.074초입니다.
+[2024.02.02-07.45.23:961][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-07.45.23:961][588]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-07.45.23:961][588]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-07.45.23:961][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-07.45.23:964][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-07.45.23:968][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-07.45.23:983][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-07.45.23:984][588]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.02-07.45.23:984][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.02-07.45.23:985][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.02-07.45.23:993][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.02.02-07.45.24:045][589]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.02.02-07.45.25:012][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.02.02-07.45.25:017][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-07.45.25:111][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.02-07.45.25:143][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.02-07.45.25:160][645]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.02.02-07.45.25:160][645]LogSavePackage: Moving '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Saved/Main096E4B4A40D5F08F5173D9BCB96F916C.tmp' to '../../../../../../Unreal_ToonTank/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap'
+[2024.02.02-07.45.25:166][645]LogFileHelpers: Saving map 'Main' took 0.055
+[2024.02.02-07.45.25:177][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 720 ms)
+[2024.02.02-07.45.25:178][645]AssetCheck: New page: 에셋 저장:  Main
+[2024.02.02-07.45.25:178][645]LogContentValidation: Display: /Script/Engine.World /Game/Maps/Main.Main 유효성 검사 중
+[2024.02.02-08.00.16:643][720]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.02-08.00.23:039][786]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_4.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_4.exp 개체를 생성하고 있습니다.
+[2024.02.02-08.00.23:226][787]LogClass: UClass ToonTanksGameMode Reload.
+[2024.02.02-08.00.23:226][787]LogClass: Could not find existing class ToonTanksGameMode in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.02.02-08.00.23:237][787]Re-instancing ToonTanksGameMode after reload.
+[2024.02.02-08.00.23:352][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.02.02-08.00.23:905][788]Display: Reload/Re-instancing Complete: 1 class changed
+[2024.02.02-08.00.23:905][788]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.02-08.00.27:114][955]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-08.00.27:120][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-08.00.27:120][955]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 2:00:27)
+[2024.02.02-08.00.27:121][955]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-08.00.27:125][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004386s)
+[2024.02.02-08.00.27:125][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004428s)
+[2024.02.02-08.00.27:191][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.02.02-08.00.27:193][955]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-08.00.27:194][955]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-08.00.27:194][955]LogAIModule: Creating AISystem for world Main
+[2024.02.02-08.00.27:194][955]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2024.02.02-08.00.27:195][955]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.02.02-08.00.27:195][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-08.00.27:195][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-08.00.27:195][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-08.00.27:195][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-08.00.27:195][955]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-08.00.27:195][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-08.00.27:195][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-08.00.27:195][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-08.00.27:195][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-08.00.27:195][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-08.00.27:195][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-08.00.27:197][955]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-08.00.27:234][955]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-08.00.27:234][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-08.00.27:234][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-08.00.27:234][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-08.00.27:235][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.02.02-08.00.27:235][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.02.02-08.00.27:237][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.02.02-08.00.27:237][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.02.02-08.00.27:237][955]LogInit: FAudioDevice initialized with ID 9.
+[2024.02.02-08.00.27:237][955]LogAudio: Display: Audio Device (ID: 9) registered with world 'Main'.
+[2024.02.02-08.00.27:237][955]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.02-08.00.27:240][955]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-08.00.27:241][955]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-17.00.27
+[2024.02.02-08.00.27:242][955]LogWorld: Bringing up level for play took: 0.001608
+[2024.02.02-08.00.27:244][955]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.02.02-08.00.27:245][955]PIE: 서버가 로그인했습니다.
+[2024.02.02-08.00.27:246][955]PIE: 에디터에서 플레이 총 시작 시간 0.126초입니다.
+[2024.02.02-08.00.33:910][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-08.00.33:910][352]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-08.00.33:910][352]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-08.00.33:910][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-08.00.33:929][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-08.00.33:933][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-08.00.33:949][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-08.00.33:956][352]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.02-08.00.33:956][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.02-08.00.33:957][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.02-08.00.33:977][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.02.02-08.00.34:028][353]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.02.02-08.01.13:428][678]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.02.02-08.01.13:434][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-08.01.13:434][678]PIE: New page: PIE 세션: Main (2024. 2. 3. 오전 2:01:13)
+[2024.02.02-08.01.13:460][678]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.02.02-08.01.13:464][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004213s)
+[2024.02.02-08.01.13:464][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004249s)
+[2024.02.02-08.01.13:474][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.02.02-08.01.13:478][678]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.02-08.01.13:478][678]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.02-08.01.13:479][678]LogAIModule: Creating AISystem for world Main
+[2024.02.02-08.01.13:479][678]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2024.02.02-08.01.13:479][678]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.02.02-08.01.13:479][678]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-08.01.13:479][678]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-08.01.13:479][678]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-08.01.13:479][678]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-08.01.13:479][678]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-08.01.13:479][678]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-08.01.13:479][678]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-08.01.13:479][678]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-08.01.13:479][678]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-08.01.13:479][678]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-08.01.13:479][678]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-08.01.13:482][678]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.02-08.01.13:517][678]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.02.02-08.01.13:517][678]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-08.01.13:517][678]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-08.01.13:517][678]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-08.01.13:519][678]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.02.02-08.01.13:519][678]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.02.02-08.01.13:520][678]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.02.02-08.01.13:520][678]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.02.02-08.01.13:520][678]LogInit: FAudioDevice initialized with ID 10.
+[2024.02.02-08.01.13:520][678]LogAudio: Display: Audio Device (ID: 10) registered with world 'Main'.
+[2024.02.02-08.01.13:521][678]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.02.02-08.01.13:523][678]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.02.02-08.01.13:524][678]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.02.02-17.01.13
+[2024.02.02-08.01.13:524][678]LogWorld: Bringing up level for play took: 0.001436
+[2024.02.02-08.01.13:526][678]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.02.02-08.01.13:528][678]PIE: 서버가 로그인했습니다.
+[2024.02.02-08.01.13:528][678]PIE: 에디터에서 플레이 총 시작 시간 0.095초입니다.
+[2024.02.02-08.01.17:880][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-08.01.17:880][937]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.02.02-08.01.17:880][937]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-08.01.17:880][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-08.01.17:898][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-08.01.17:902][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-08.01.17:914][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-08.01.17:914][937]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.02.02-08.01.17:914][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.02-08.01.17:916][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.02-08.01.17:924][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.02-08.01.17:967][938]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.02.02-08.02.00:091][157]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.02-08.02.06:125][298]LogLiveCoding: Display:    C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_5.lib 라이브러리 및 C:\Unreal_ToonTank\ToonTanksProjectSetup_4.25\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_5.exp 개체를 생성하고 있습니다.
+[2024.02.02-08.02.06:442][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.02.02-08.02.07:012][300]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.02-08.02.07:012][300]LogLiveCoding: Display: Live coding succeeded
+[2024.02.02-08.02.25:110][355]LogDerivedDataCache: C:/Users/zest2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.483 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9953 files in 12388 folders with total size 1238 MiB.

@@ -78,7 +78,7 @@ void ATank::Tick(float DeltaTime)
 			HitResult);
 
 		// 충돌한 위치를 받아옴 
-		DrawDebugSphere(GetWorld(), HitResult.ImpactPoint, 30, 12, FColor::Red, false, -1);
+		// DrawDebugSphere(GetWorld(), HitResult.ImpactPoint, 30, 12, FColor::Red, false, -1);
 		RotateTurret(HitResult.ImpactPoint, DeltaTime);
 	}
 }

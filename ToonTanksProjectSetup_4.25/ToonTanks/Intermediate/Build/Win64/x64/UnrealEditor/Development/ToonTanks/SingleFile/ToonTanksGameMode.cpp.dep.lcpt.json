@@ -940,7 +940,9 @@
             "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\basepawn.generated.h",
             "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.generated.h",
             "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\tower.h",
-            "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tower.generated.h"
+            "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tower.generated.h",
+            "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\toontanksplayercontroller.h",
+            "c:\\unreal_toontank\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\toontanksplayercontroller.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
