@@ -31,6 +31,11 @@ ABasePawn::ABasePawn()
 void ABasePawn::HandleDestruction()
 {
 	UGameplayStatics::SpawnEmitterAtLocation(this, DestroyParticles, GetActorLocation(), GetActorRotation());
+
+	if (nullptr != DestroySound)
+	{
+		UGameplayStatics::PlaySoundAtLocation(this, DestroySound, GetActorLocation());
+	}
 }
 
 void ABasePawn::RotateTurret(FVector LookAtTarget, float DeltaTime)

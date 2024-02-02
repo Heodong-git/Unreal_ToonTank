@@ -17,6 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeProjectile() {}
 	ENGINE_API UClass* Z_Construct_UClass_UParticleSystemComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UPrimitiveComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UProjectileMovementComponent_NoRegister();
+	ENGINE_API UClass* Z_Construct_UClass_USoundBase_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
 	ENGINE_API UScriptStruct* Z_Construct_UScriptStruct_FHitResult();
 	TOONTANKS_API UClass* Z_Construct_UClass_AProjectile();
@@ -149,6 +150,14 @@ void EmptyLinkFunctionForGeneratedCodeProjectile() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_Variable_MetaData[];
 #endif
 		static const UECodeGen_Private::FObjectPropertyParams NewProp_Variable;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_LaunchSound_MetaData[];
+#endif
+		static const UECodeGen_Private::FObjectPropertyParams NewProp_LaunchSound;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_HitSound_MetaData[];
+#endif
+		static const UECodeGen_Private::FObjectPropertyParams NewProp_HitSound;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -206,12 +215,28 @@ void EmptyLinkFunctionForGeneratedCodeProjectile() {}
 	};
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AProjectile_Statics::NewProp_Variable = { "Variable", nullptr, (EPropertyFlags)0x00400000000a0009, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AProjectile, Variable), Z_Construct_UClass_UParticleSystemComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AProjectile_Statics::NewProp_Variable_MetaData), Z_Construct_UClass_AProjectile_Statics::NewProp_Variable_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AProjectile_Statics::NewProp_LaunchSound_MetaData[] = {
+		{ "Category", "Combat" },
+		{ "ModuleRelativePath", "Projectile.h" },
+	};
+#endif
+	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AProjectile_Statics::NewProp_LaunchSound = { "LaunchSound", nullptr, (EPropertyFlags)0x0040000000000001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AProjectile, LaunchSound), Z_Construct_UClass_USoundBase_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AProjectile_Statics::NewProp_LaunchSound_MetaData), Z_Construct_UClass_AProjectile_Statics::NewProp_LaunchSound_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AProjectile_Statics::NewProp_HitSound_MetaData[] = {
+		{ "Category", "Combat" },
+		{ "ModuleRelativePath", "Projectile.h" },
+	};
+#endif
+	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AProjectile_Statics::NewProp_HitSound = { "HitSound", nullptr, (EPropertyFlags)0x0040000000000001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AProjectile, HitSound), Z_Construct_UClass_USoundBase_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AProjectile_Statics::NewProp_HitSound_MetaData), Z_Construct_UClass_AProjectile_Statics::NewProp_HitSound_MetaData) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AProjectile_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AProjectile_Statics::NewProp_ProjectileMesh,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AProjectile_Statics::NewProp_MovementComp,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AProjectile_Statics::NewProp_Damage,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AProjectile_Statics::NewProp_HitParticles,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AProjectile_Statics::NewProp_Variable,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AProjectile_Statics::NewProp_LaunchSound,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AProjectile_Statics::NewProp_HitSound,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AProjectile_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AProjectile>::IsAbstract,
@@ -251,9 +276,9 @@ void EmptyLinkFunctionForGeneratedCodeProjectile() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_ToonTank_ToonTanksProjectSetup_4_25_ToonTanks_Source_ToonTanks_Projectile_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AProjectile, AProjectile::StaticClass, TEXT("AProjectile"), &Z_Registration_Info_UClass_AProjectile, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AProjectile), 958287653U) },
+		{ Z_Construct_UClass_AProjectile, AProjectile::StaticClass, TEXT("AProjectile"), &Z_Registration_Info_UClass_AProjectile, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AProjectile), 3758754258U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_ToonTank_ToonTanksProjectSetup_4_25_ToonTanks_Source_ToonTanks_Projectile_h_3431368934(TEXT("/Script/ToonTanks"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_ToonTank_ToonTanksProjectSetup_4_25_ToonTanks_Source_ToonTanks_Projectile_h_2127182057(TEXT("/Script/ToonTanks"),
 		Z_CompiledInDeferFile_FID_Unreal_ToonTank_ToonTanksProjectSetup_4_25_ToonTanks_Source_ToonTanks_Projectile_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_ToonTank_ToonTanksProjectSetup_4_25_ToonTanks_Source_ToonTanks_Projectile_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

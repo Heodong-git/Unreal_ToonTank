@@ -14,6 +14,7 @@ void EmptyLinkFunctionForGeneratedCodeBasePawn() {}
 	ENGINE_API UClass* Z_Construct_UClass_UCapsuleComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UParticleSystem_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USceneComponent_NoRegister();
+	ENGINE_API UClass* Z_Construct_UClass_USoundBase_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
 	TOONTANKS_API UClass* Z_Construct_UClass_ABasePawn();
 	TOONTANKS_API UClass* Z_Construct_UClass_ABasePawn_NoRegister();
@@ -58,6 +59,10 @@ void EmptyLinkFunctionForGeneratedCodeBasePawn() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_DestroyParticles_MetaData[];
 #endif
 		static const UECodeGen_Private::FObjectPropertyParams NewProp_DestroyParticles;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_DestroySound_MetaData[];
+#endif
+		static const UECodeGen_Private::FObjectPropertyParams NewProp_DestroySound;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -124,6 +129,13 @@ void EmptyLinkFunctionForGeneratedCodeBasePawn() {}
 	};
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ABasePawn_Statics::NewProp_DestroyParticles = { "DestroyParticles", nullptr, (EPropertyFlags)0x0040000000000001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ABasePawn, DestroyParticles), Z_Construct_UClass_UParticleSystem_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ABasePawn_Statics::NewProp_DestroyParticles_MetaData), Z_Construct_UClass_ABasePawn_Statics::NewProp_DestroyParticles_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABasePawn_Statics::NewProp_DestroySound_MetaData[] = {
+		{ "Category", "Combat" },
+		{ "ModuleRelativePath", "BasePawn.h" },
+	};
+#endif
+	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ABasePawn_Statics::NewProp_DestroySound = { "DestroySound", nullptr, (EPropertyFlags)0x0040000000000001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ABasePawn, DestroySound), Z_Construct_UClass_USoundBase_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ABasePawn_Statics::NewProp_DestroySound_MetaData), Z_Construct_UClass_ABasePawn_Statics::NewProp_DestroySound_MetaData) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ABasePawn_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABasePawn_Statics::NewProp_CapsuleComp,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABasePawn_Statics::NewProp_BaseMesh,
@@ -131,6 +143,7 @@ void EmptyLinkFunctionForGeneratedCodeBasePawn() {}
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABasePawn_Statics::NewProp_ProjectileSpawnPoint,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABasePawn_Statics::NewProp_ProjectileClass,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABasePawn_Statics::NewProp_DestroyParticles,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABasePawn_Statics::NewProp_DestroySound,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ABasePawn_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ABasePawn>::IsAbstract,
@@ -170,9 +183,9 @@ void EmptyLinkFunctionForGeneratedCodeBasePawn() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_ToonTank_ToonTanksProjectSetup_4_25_ToonTanks_Source_ToonTanks_BasePawn_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_ABasePawn, ABasePawn::StaticClass, TEXT("ABasePawn"), &Z_Registration_Info_UClass_ABasePawn, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ABasePawn), 1622934889U) },
+		{ Z_Construct_UClass_ABasePawn, ABasePawn::StaticClass, TEXT("ABasePawn"), &Z_Registration_Info_UClass_ABasePawn, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ABasePawn), 2030292819U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_ToonTank_ToonTanksProjectSetup_4_25_ToonTanks_Source_ToonTanks_BasePawn_h_4213866422(TEXT("/Script/ToonTanks"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_ToonTank_ToonTanksProjectSetup_4_25_ToonTanks_Source_ToonTanks_BasePawn_h_923262226(TEXT("/Script/ToonTanks"),
 		Z_CompiledInDeferFile_FID_Unreal_ToonTank_ToonTanksProjectSetup_4_25_ToonTanks_Source_ToonTanks_BasePawn_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_ToonTank_ToonTanksProjectSetup_4_25_ToonTanks_Source_ToonTanks_BasePawn_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
